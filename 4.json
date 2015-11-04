@@ -1,0 +1,110 @@
+{
+	"items":	[
+
+	{"type": "Subject", "label": "Food and Human Nutrition"},
+	{"type": "Subject", "label": "food science", "subtopicOf": "Food and Human Nutrition"},
+	{"type": "Subject", "label": "food analysis", "subtopicOf": "food science"},
+	{"type": "Subject", "label": "food chemistry", "subtopicOf": "food science"},
+	{"type": "Subject", "label": "food composition", "subtopicOf": "food science"},
+	{"type": "Subject", "label": "human nutrition", "subtopicOf": "Food and Human Nutrition"},
+	{"type": "Subject", "label": "nutrition assessment", "subtopicOf": "human nutrition"},
+	{"type": "Subject", "label": "Physical and Chemical Sciences"},
+	{"type": "Subject", "label": "chemical substances", "subtopicOf": "Physical and Chemical Sciences"},
+	{"type": "Subject", "label": "biochemical compounds", "subtopicOf": "chemical substances"},
+	{"type": "Subject", "label": "chemical compounds", "subtopicOf": "chemical substances"},
+	{"type": "Subject", "label": "chemical residues", "subtopicOf": "chemical substances"},
+	{"type": "Subject", "label": "chemistry", "subtopicOf": "Physical and Chemical Sciences"},
+	{"type": "Subject", "label": "analytical chemistry", "subtopicOf": "chemistry"},
+	{"type": "Subject", "label": "chemical analysis", "subtopicOf": "analytical chemistry"},
+	{"type": "Subject", "label": "chemical composition", "subtopicOf": "chemistry"},
+	{"type": "Subject", "label": "ash content", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "carbohydrate composition", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "dry matter content", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "elemental composition", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "fiber content", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "lipid composition", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "mineral content", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "nitrogen content", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "nutrient content", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "protein composition", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "proximate composition", "subtopicOf": "chemical composition"},
+	{"type": "Subject", "label": "Information content entity"},
+	{"type": "Subject", "label": "HTML", "subtopicOf": "Information content entity"},
+	{"type": "Subject", "label": "RDF", "subtopicOf": "Information content entity"},
+	{"type": "Subject", "label": "OWL", "subtopicOf": "Information content entity"},
+	{"type": "Subject", "label": "XML", "subtopicOf": "Information content entity"},
+	{"type": "Subject", "label": "Java", "subtopicOf": "Information content entity"},
+	{"type": "Subject", "label": "Search and retrieval", "subtopicOf": "Information content entity"},
+
+	{
+	"type":	"Publication",
+	"label":	"Catcher in the Rye",
+	"datePublished":	"1991-05-01",
+	"description":	"Rye is grown in ...",
+	"author":
+		[
+			"Mirchandani, Dinesh",
+			"Seymour, Jane"
+		],
+	"publisher":	"Elsevier",
+	"pub-type":	"book",
+	"subject":	"proximate composition",
+	"keywords":
+		[
+			"word-1",
+			"word-2",
+			"word-3"
+		]
+	},
+
+	{
+	"type":	"Publication",
+	"label":	"Catcher in the Barley",
+	"datePublished":	"2010-07-03",
+	"description":	"Barley is grown in ...",
+	"about":
+		[
+			"Works",
+			"Catalog"
+		],
+	"pageStart":	"69",
+	"pageEnd":	"140",
+	"author":
+		[
+			"Seymour, Jane",
+			"Mirchandani, Dinesh"
+		],
+	"pub-type":	"periodical",
+	"subject":	"nutrition assessment",
+	"keywords":
+		[
+			"word-1",
+			"word-2",
+			"word-4"
+		]
+	},
+	{
+	"type":	"Publication",
+	"label":	"Catcher in the Wheat",
+	"datePublished":	"2010-07-03",
+	"description":	"Wheat is grown in ...",
+	"about":
+		[
+			"Works",
+			"Catalog"
+		],
+	"author":
+		[
+			"Johnson, Jane",
+			"Mirchandani, Dinesh"
+		],
+	"pub-type":	"web page",
+	"subject":	"Search and retrieval",
+	"keywords":
+		[
+			"word-4",
+			"word-5",
+			"word-1"
+		]
+	}
+]}

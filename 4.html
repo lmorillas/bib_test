@@ -1,0 +1,120 @@
+<html><head><title>Bib-v4 - Exhibit-3</title>
+<!--
+<script type="text/javascript" src="http://static.simile.mit.edu/exhibit/api-2.0/exhibit-api.js"></script>
+<script type="text/javascript" src="http://api.simile-widgets.org/exhibit/3.1.0rc/exhibit-api.js"></script>
+<link type="text/javascript" rel="exhibit-extension" href="http://api.simile-widgets.org/exhibit/3.1.0rc/extensions/time/time-extension.js" />
+-->
+<script type="text/javascript" src="http://api.simile-widgets.org/exhibit/HEAD/exhibit-api.js"></script>
+<link type="application/json" rel="exhibit-data" href="4.json" />
+<style type="text/css">
+  #credentials a {color: white;}
+  #credentials span {padding: 0 1em}
+  #credentials {text-align:center; font-size:smaller; clear: both; background: #0095AF; color:white; padding: 0.3ex}
+  #exSidebar h2 {background:#EEE; margin:1ex 0}
+  #exSidebar {float:left; font-size:smaller; padding:1ex; width:29%;}
+  #intro a {color:#333; text-decoration:underline}
+  #intro {background:#EEE; padding:1em; margin: 1em 0}
+  #vp{float:left; max-width:69%; min-width:68%;}
+  .exhibit-facet-header-title, .exhibit-flowingFacet-header-title {color:#0095AF}
+  .exhibit-flowingFacet {margin: 1em 0}
+  .exhibit-flowingFacet-body, .sideItem {border: 1px solid #DDD;}
+  .footer a {color:white; text-decoration:none}
+  .footer span {margin: 0 1em}
+  .footer {color:white; font-family:'Arial',sans-serif; line-height:1em; font-size:0.7em; vertical-align:top; text-align:center; text-decoration:none;}
+  .hiddenlink {text-decoration: none}
+  .item h3 {text-align:left; margin: 1em 0 0 0.7ex}
+  .item p, .item span {font-size:0.9em; text-align:left; margin:0.7ex 0 0 0}
+  .sideItem ul {padding-left: 2em}
+  .subtitle {font-style:italic}
+  .todo {color:darkred; font-style:italic}
+  body {font-family:Arial,sans-serif; font-size: small; color:#333;}
+  em {font-style:normal; font-weight: bold}
+  h1 {color:black; line-height:2.5em; font-size:1em; font-weight:bold; vertical-align:top; text-align:left; margin-left:10px;}
+  h3, .title, .exhibit-lens-title  {color:#0095AF; background:#EEE}
+</style>
+</head>
+<body bgcolor="#DCDCDC">
+<div data-ex-role="collection" data-ex-item-types="Publication"></div>
+
+<table cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td colspan="3">
+	<a href="http://www.ontomatica.com/public/organizations/ONTO/Intro.html">
+	<img src="AFDSI_logo_flamenco_food_catalog.png" style="padding: 0 0 0 21px;" border="0" ></a>
+</td>
+</tr>
+<tr>
+<td width="21"><img src="shdw_li.jpg" width="21" height="100%"></td>
+<td bgcolor="#FFFFFF" height="700" width="980" valign="top">
+
+<!-- Collections for type-based focus restriction -->
+
+
+<!-- layout and logic -->
+
+<div id="contentwide">
+	<div id="exSidebar">
+
+
+<!-- facets -->
+	<h2>full text search</h2>
+		<div data-ex-role="facet" data-ex-facet-class="TextSearch"></div>
+	<h2>facet navigation</h2>
+		<div data-ex-role="facet" data-ex-facet-class="Exhibit.HierarchicalFacet" data-ex-expression=".subject!label" data-ex-uniform-grouping=".subtopicOf" data-ex-facet-label="Subject Headings" data-ex-scroll="false"></div>
+		<div data-ex-role="facet" data-ex-expression=".author" data-ex-facet-label="Author Names" data-ex-scroll="false"></div>
+		<div data-ex-role="facet" data-ex-expression=".keywords" data-ex-facet-label="Keywords" data-ex-scroll="false"></div>
+		<div data-ex-role="facet" data-ex-expression=".pub-type" data-ex-facet-label="Publication Types" data-ex-scroll="false"></div>
+	<h2 id="help">help</h2>
+		<div class="sideItem">
+			<p>Here's how to use the <em>bibliography</em> tool:</p>
+			<ul>
+			<li>type any relevant word in the search box</li>
+			<li>progressively <em>refine</em> your research by selecting or deselecting facets (incl. Keywords and Authors)</li>
+			<li>switch between <em>views</em> to get other information on the items</li>
+			<li><em>export</em> your selection by clicking on the small scissors icon you seen when hovering the items description</li>
+			<li><em>reinitialize</em> the filtering anytime to see all the material</li>
+			</ul>
+		</div>
+	</div>
+	<div id="vp" data-ex-role="viewPanel">
+<!-- sources view -->
+
+		<div data-ex-role="view" data-ex-label="Sources" data-ex-view-class="Tile" data-ex-orders=".author">
+			<div data-ex-role="lens" style="display: none;">
+				<div class="item">
+					<h3 data-ex-content=".label" class="title"></h3>
+					<p data-ex-if-exists=".author" data-ex-content=".author" class="subtitle"></p>
+					<p data-ex-content=".description"></p>
+				</div>
+			</div>
+		</div>
+<!-- abstract view -->
+		<div data-ex-role="view" data-ex-label="Abstracts" data-ex-viewclass="Tile" data-ex-orders=".author,.label" data-ex-show-all="true">
+			<div data-ex-role="lens" style="display: none;">
+				<div class="item">
+					<span data-ex-control="copy-button" style="float: right"></span>
+					<h3 data-ex-content=".label" class="title"></h3>
+					<p data-ex-if-exists=".author" data-ex-content=".author" class="subtitle"></p>
+					<p data-ex-if-exists=".description" data-ex-content=".description"></p>
+					<p data-ex-if-exists=".keywords"><em>Keywords:</em> <span data-ex-content=".keywords" /></p>
+				</div>
+			</div>
+		</div>
+	</div><!--end of vp -->
+	</div><!--end of contentwide -->
+<br>
+</td>
+
+<td><img src="shdw.jpg" width="21" height=100%></td>
+<tr>
+	<td><img src="shdw_li.jpg" width="21" height="100%"></td>
+	<td bgcolor="#000000" height="23"><div class="footer">Powered by Exhibit</div></td>
+	<td><img src="shdw.jpg" width="21" height=100%></td>
+</tr>
+<tr>
+	<td></td>
+	<td><img src="shdw_unten.jpg" height="18" width="100%"></td>
+	<td></td>
+</tr>
+</table>
+</body></html>
