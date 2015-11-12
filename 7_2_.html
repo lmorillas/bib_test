@@ -1,0 +1,162 @@
+<html><head><title>Bib version 7-2</title>
+	<link href="7_1_publication_.json" type="application/json" rel="exhibit-data">
+	<link href="7_1_person_.json" type="application/json" rel="exhibit-data">
+	<link href="7_1_schema_.json" type="application/json" rel="exhibit-data">
+    <link href="authors.json" type="application/json" rel="exhibit-data">
+	<link href='http://www.simile-widgets.org/styles/common.css' type='text/css' rel='stylesheet' />
+	<script type="text/javascript" src="http://api.simile-widgets.org/exhibit/HEAD/exhibit-api.js"></script>
+<!-- Bootstrap -->
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bootstrap/3.3.0/css/bootstrap-theme.min.css">
+	<script src="https://cdn.jsdelivr.net/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--
+	.exhibit-cloudFacet-value { font-size: smaller; text-transform: lowercase; }
+	.exhibit-facet-header, .exhibit-cloudFacet-header { margin-top: 12px; }
+	.exhibit-facet-header-title {color:#0095AF}
+	.exhibit-facet-value { font-size: smaller; }
+	div.exhibit-legendWidget > div.exhibit-color-legend > div > div > span.label { color: black; }
+	h1 { color: black; line-height:2.5em; font-size: 1em; font-weight: bold; vertical-align: top; text-align: left; margin-left: 10px; }
+	img.w { width: 70%; }
+-->
+<style type="text/css">
+	.exhibit-flowingFacet { margin: 1em 0 }
+	.exhibit-flowingFacet-body { border: 1px solid #DDD; }
+	.exhibit-flowingFacet-header-title { color:#0095AF; }
+	.item h3 { text-align: left; margin: 1em 0 0 0.7ex; }
+	.item p { font-size: 0.9em; text-align: left; margin: 0.7ex 0 0 0; }
+	.item span { font-size: 0.9em; text-align:left; margin: 0.7ex 0 0 0; }
+	.row { margin-top: 4em; }
+	.sideItem ul { padding-left: 2em; }
+	.sideItem { border: 1px solid #DDD; }
+	.subtitle { font-style: italic; }
+	body { font-family: Arial,sans-serif; font-size: small; color:#333; }
+	em { font-style: normal; font-weight: bold; }
+	h2 { font-size: 1.3em; font-weight: bold; background: #EEE; margin: 1ex 0; }
+	h3, .title, .exhibit-lens-title  { font-size: 1.3em; color: #0095AF; background: #EEE; }
+	div.exhibit-toolboxWidget-popup { display: none; }
+</style></head>
+<body>
+<div class="container-fluid">
+<!-- added by luismiguel  -->
+<div data-ex-role="collection" data-ex-item-types="Publication"></div>
+	<div class="row">
+	<div class="col-md-3">
+<!-- facets -->
+	<h2 id="help">help</h2>
+		<div class="sideItem">
+			<p>Here's how to use <em>bibliography</em>:</p>
+			<ul>
+			<li>type any relevant word in the search box</li>
+			<li>progressively <em>refine</em> your search by selecting or deselecting facets (such as &quot;publication type&quot; and &quot;author name&quot;)</li>
+			<li>switch between <em>views</em> (terms in &quot;all caps&quot; at top/center of page) to get other information on items</li>
+			<li><em>reinitialize</em> the filters anytime to see all items</li>
+			</ul>
+		</div>
+	<h2>full text search</h2>
+		<div data-ex-role="facet" data-ex-facet-class="TextSearch"></div>
+	<h2>filter by:</h2>
+		<div data-ex-role="facet" data-ex-expression=".pub-type" data-ex-facet-label="publication type" data-ex-sort-mode="count" data-ex-scroll="false"></div>
+		<div data-ex-role="facet" data-ex-facet-class="Hierarchical" data-ex-uniform-grouping=".subtopicOf" data-ex-expression=".decade.label" data-ex-facet-label="decade" data-ex-scroll="false" data-ex-show-missing="false"></div>
+<!--
+		<div data-ex-role="facet" data-ex-expression=".year" data-ex-facet-label="year" data-ex-scroll="false" data-ex-show-missing="false"></div>
+-->
+</div><!--end col-md-3-->
+<div class="col-md-6">
+	<div id="vp" data-ex-role="viewPanel">
+<!-- summary view -->
+		<div data-ex-role="view" data-ex-label="Summary" data-ex-view-class="Tile" data-ex-orders=".label, .author" data-ex-grouped="false">
+			<div data-ex-role="lens" style="display: none;">
+				<div class="item">
+					<h3 data-ex-content=".label" class="title"></h3>
+					<p data-ex-if-exists=".author" data-ex-content=".author" class="subtitle"></p>
+					<p data-ex-content=".description"></p>
+				</div><!--end of item-->
+			</div><!--end of lens-->
+<!--Enable titles-on-author -->
+			<div data-ex-role="exhibit-lens" data-ex-item-types="Author" class="author" style="display: none">
+				<div class="title"><span data-ex-content=".label"></span></div>
+					<ol class="publications" data-ex-content="!author">
+						<li data-ex-content="value"></li>
+					</ol>
+			</div>
+			<div data-ex-role="view" data-ex-show-all="true" data-ex-grouped="true" data-ex-orders=".year" data-ex-directions="descending" data-ex-possible-orders=".pub-type, .author, .year, .label"></div>
+		</div><!--end of summary view-->
+<!-- detail view -->
+		<div data-ex-role="view" data-ex-label="Details" data-ex-view-class="Tile" data-ex-orders=".author, .label" data-ex-show-all="true">
+			<div data-ex-role="lens" style="display: none;">
+				<div class="item">
+				<h3 data-ex-content=".label" class="title"></h3>
+				<p>
+					<span data-ex-if-exists=".author">
+						<span class="content" data-ex-content=".author"></span>,
+					</span>
+					<i><span class="pubtlTitle" data-ex-content=".label"></span></i>,
+					<span data-ex-if-exists=".booktitle">
+						<span data-ex-content=".booktitle" class="booktitle"></span>,
+					</span>
+					<span data-ex-if-exists=".journal">
+						<span data-ex-content=".journal" class="journal"></span>,
+						<span data-ex-if-exists=".volume">
+							<span data-ex-content=".volume" class="volume"></span>
+							<span data-ex-if-exists=".number">
+								(<span data-ex-content=".number"></span>)
+							</span>,
+						</span>
+					</span>
+					<span data-ex-if-exists=".organization">
+						<span data-ex-content=".organization" class="journal"></span>,
+					</span>
+					<span data-ex-if-exists=".institution">
+						<span data-ex-content=".institution" class="institution"></span>,
+						<span data-ex-content=".kind"></span>
+						<span data-ex-if-exists=".number"> (<span data-ex-content=".number"></span>)</span>,
+					</span>
+					<span data-ex-if-exists=".editor">
+						<span data-ex-content=".editor"></span> (Eds.),
+					</span>
+					<span data-ex-if-exists=".series">
+						<span data-ex-content=".series"></span>,
+					</span>
+					<span data-ex-if-exists=".publisher">
+						<span data-ex-content=".publisher"></span>,
+					</span>
+					<span data-ex-if-exists=".address">
+						<span data-ex-content=".address"></span>
+					</span>
+					<span data-ex-if-exists=".pages">
+						pp.<span data-ex-content=".pages"></span>,
+					</span>
+					<span data-ex-content=".year"></span>.
+					<span data-ex-if-exists=".isbn">
+						ISBN:&nbsp;<a data-ex-href-subcontent="http://www.worldcatlibraries.org/isbn/{{.isbn}}">
+						<span data-ex-content=".isbn"></span></a>.
+					</span>
+					<span data-ex-if-exists=".url">
+						<a class="content" data-ex-href-content=".url">(link)</a>
+					</span>
+					<span data-ex-if-exists=".pdf">
+						<a data-ex-href-content=".pdf">PDF</a>
+					</span>
+					<span data-ex-if-exists=".postscript">
+						<a data-ex-href-content=".postscript">PS.GZ</a>
+					</span>
+				</p>
+				</div><!--end of item-->
+			</div><!--end of lens-->
+<!--Enable titles-on-author -->
+			<div data-ex-role="exhibit-lens" data-ex-item-types="Author" class="author" style="display: none">
+				<div class="title"><span data-ex-content=".label"></span></div>
+					<ol class="publications" data-ex-content="!author">
+						<li data-ex-content="value"></li>
+					</ol>
+			</div>
+			<div data-ex-role="view" data-ex-show-all="true" data-ex-grouped="true" data-ex-orders=".year" data-ex-directions="descending" data-ex-possible-orders=".pub-type, .author, .year, .label"></div>
+		</div><!--end of details view-->
+	</div><!--end of vp -->
+</div><!--end col-md-6-->
+<div class="col-md-3">
+		<div data-ex-role="facet" data-ex-facet-class="Hierarchical" data-ex-uniform-grouping=".st" data-ex-expression=".author" data-ex-facet-label="author by alphabetical group" data-ex-scroll="false"></div>
+		<div data-ex-role="facet" data-ex-expression=".author" data-ex-facet-label="author by name" data-ex-scroll="false"></div>
+</div><!--end col-md-3-->
+</body></html>

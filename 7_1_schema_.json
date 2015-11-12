@@ -1,0 +1,147 @@
+{
+	"types":	{
+		"Author":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#Author"
+		},
+		"Publication":	{
+			"label":	"Publication",
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#Publication",
+			"pluralLabel":	"Publications"
+		}
+	},
+
+	"properties":	{
+		"decade":	{
+			"label":	"1980's"
+		},
+		"decade":	{
+			"label":	"1990's"
+		},
+		"decade":	{
+			"label":	"2000's"
+		},
+		"decade":	{
+			"label":	"2010's"
+		},
+
+		"alpha":	{
+			"label":	"C"
+		},
+		"alpha":	{
+			"label":	"L"
+		},
+		"alpha":	{
+			"label":	"S"
+		},
+
+		"location":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#location"
+		},
+		"issn":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#issn"
+		},
+		"comment":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#comment"
+		},
+		"postscript":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#postscript"
+		},
+		"number":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#number"
+		},
+		"note":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#note"
+		},
+		"author":	{
+			"reverseLabel":	"authors of",
+			"label":	"author",
+			"groupingLabel":	"their authors",
+			"uri":		"http://simile.mit.edu/2006/11/bibtex#author",
+			"reverseGroupingLabel":	"what they author",
+			"reversePluralLabel":	"authors of",
+			"valueType":	"item",
+			"pluralLabel":	"authors"
+		},
+		"address":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#address"
+		},
+		"issue":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#issue"
+		},
+		"editor":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#editor"
+		},
+		"b2hproject":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#b2hproject"
+		},
+		"ee":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#ee"
+		},
+		"url":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#url"
+		},
+		"institution":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#institution"
+		},
+		"series":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#series"
+		},
+		"pages":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#pages"
+		},
+		"year":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#year"
+		},
+		"journal":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#journal"
+		},
+		"editors":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#editors"
+		},
+		"booktitle":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#booktitle"
+		},
+		"publisher":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#publisher"
+		},
+		"internet":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#internet"
+		},
+		"ps":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#ps"
+		},
+		"abstract":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#abstract"
+		},
+		"original-name":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#original-name"
+		},
+		"volume":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#volume"
+		},
+		"pdf":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#pdf"
+		},
+		"doi":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#doi"
+		},
+		"date":	{
+			"uri":	"http://purl.org/dc/elements/1.1/date"
+		},
+		"bibdate":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#bibdate"
+		},
+		"month":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#month"
+		},
+		"organization":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#organization"
+		},
+		"last-name":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#last-name"
+		},
+		"key":	{
+			"uri":	"http://simile.mit.edu/2006/11/bibtex#key"
+		}
+	}
+}

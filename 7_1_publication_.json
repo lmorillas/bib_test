@@ -1,0 +1,3616 @@
+{
+"items" :	[
+	{"type": "decade", "label": "1980's"},
+	{"type": "decade", "label": "1980", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1981", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1982", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1983", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1984", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1985", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1986", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1987", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1988", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1989", "subtopicOf": "1980's"},
+	{"type": "decade", "label": "1990's"},
+	{"type": "decade", "label": "1991", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1992", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1993", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1994", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1995", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1996", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1997", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1998", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "1999", "subtopicOf": "1990's"},
+	{"type": "decade", "label": "2000's"},
+	{"type": "decade", "label": "2000", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2001", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2002", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2003", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2004", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2005", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2006", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2007", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2008", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2009", "subtopicOf": "2000's"},
+	{"type": "decade", "label": "2010's"},
+	{"type": "decade", "label": "2010", "subtopicOf": "2010's"},
+	{"type": "decade", "label": "2011", "subtopicOf": "2010's"},
+	{"type": "decade", "label": "2012", "subtopicOf": "2010's"},
+	{"type": "decade", "label": "2013", "subtopicOf": "2010's"},
+	{"type": "decade", "label": "2014", "subtopicOf": "2010's"},
+	{"type": "decade", "label": "2015", "subtopicOf": "2010's"},
+
+	{"type": "alpha", "label": "Alphabetical"},
+	{"type": "alpha", "label": "C", "subtopicOf": "Alphabetical"},
+	{"type": "alpha", "label": "L", "subtopicOf": "Alphabetical"},
+	{"type": "alpha", "label": "S", "subtopicOf": "Alphabetical"},
+
+	{
+	"pdf":	"papers/2005/LeSmoCan05.pdf",
+	"booktitle":	"International Conference on Machine Learning ICML",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0851188ae0b0b61c85801dc651777e11",
+	"date":	"2005",
+	"author":	[
+		"Le, Q.V.",
+		"Smola, A.J.",
+		"Canu, S."
+	],
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Heteroscedastic Gaussian Process Regression",
+	"alpha":	[
+		"L",
+		"S",
+		"C"
+	],
+	"decade":	"2005"
+	},
+	{
+	"pdf":	"papers/2006/TakLeSeaSmo06.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"article",
+	"uri":	"urn:fa747151562dcc5b391d6876027c49be",
+	"pages":	"1231\u20101264",
+	"date":	"2006",
+	"author":	[
+		"Takeuchi, I.",
+		"Le, Q.V.",
+		"Sears, T.D.",
+		"Smola, A.J."
+	],
+	"volume":	"7",
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Nonparametric Quantile Regression",
+	"decade":	"2006"
+	},
+	{
+	"pdf":	 "papers/2002/VisSmo02a.pdf",
+	"booktitle":	"Proceedings of Neural Information Processing Systems 2002",
+	"postscript":	"papers/2002/VisSmo02a.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:14a0f5b2a871c7e917c5b7289fcc1772",
+	"date":	"2002",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Fast Kernels on Strings and Trees",
+	"decade":	 "2002"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	"papers/2007/HuaSmoGreBorSch07.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 19",
+	"pub-type":	"incollection",
+	"uri":	"urn:b976065bd1866eef748a48e205544daf",
+	"pages":	"601\u2010608",
+	"date":	"2007",
+	"author":	[
+		"Huang, J.",
+		"Smola, A.J.",
+		"Gretton, A.",
+		"Borgwardt, K.M.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"B. Sch\u00F6lkopf and J. Platt and T. Hoffman",
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"Correcting Sample Selection Bias by Unlabeled Data",
+	"address":	"Cambridge, MA",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"Morgan Kaufmann Publishers",
+	"pdf":	 "papers/2000/SmoSch00.pdf",
+	"booktitle":	"Proceedings of the International Conference on Machine Learning",
+	"postscript":	"papers/2000/SmoSch00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:7bad4e630a75484f34e32a9d07be507e",
+	"pages":	"911\u2010918",
+	"date":	"2000",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"P.Langley",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Sparse Greedy Matrix Approximation for Machine Learning",
+	"address":	"San Francisco",
+	"decade":	 "2000"
+	},
+	{
+	"pdf":	"papers/1998/SchSmoMul98.pdf",
+	"journal":	"Neural Computation",
+	"pub-type":	"article",
+	"uri":	"urn:a8e71b90e731dd3f7e93f8ea0ee8a80e",
+	"pages":	"1299\u20101319",
+	"date":	"1998",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R."
+	],
+	"volume":	"10",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Nonlinear component analysis as a kernel Eigenvalue problem",
+	"issue":	"5",
+	"decade":	"1998"
+	},
+	{
+	"pdf":	"papers/1998/SauStiWesBotetal98.pdf",
+	"postscript":	"papers/1998/SauStiWesBotetal98.ps.gz",
+	"pub-type":	"techreport",
+	"institution":	"Department of Computer Science, Royal Holloway, University of London",
+	"uri":	"urn:6a1313694f519e9f643bf1b9eee602f9",
+	"date":	 "1998",
+	"number":	"CSD-TR-98-03",
+	"author":	[
+		"Saunders, C.",
+		"Stitson, M.O.",
+		"Weston, J.",
+		"Bottou, L.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"type":	 "Publication",
+	"year":	 "1998",
+	"note":	 "SVM available at http://svm.dcs.rhbnc.ac.uk/",
+	"label":	"Support Vector Machine \u2013 Reference Manual",
+	"address":	"Egham, UK",
+	"decade":	"1998"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2005/BhaPanSmo04.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 17",
+	"postscript":	"papers/2005/BhaPanSmo04.ps.gz",
+	"pub-type":	"incollection",
+	"uri":	 "urn:6a90ede249fab1e36c8a56feb446efb2",
+	"pages":	"153\u2010160",
+	"date":	"2005",
+	"author":	[
+		"Bhattacharyya, C.",
+		"Pannagadatta, K.S.",
+		"Smola, A.J."
+	],
+	"editor":	"L.K.Saul and Y.Weiss and L.Bottou",
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"A Second Order Cone programming Formulation for Classifying Missing Data",
+	"address":	"Cambridge, MA",
+	"decade":	 "2005"
+	},
+	{
+	"pdf":	"papers/2005/GreSmoBouetal05.pdf",
+	"booktitle":	"Artificial Intelligence and Statistics AISTATS 2005",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:5b860769a8b526a56a8a36121f93fc8d",
+	"date":	"2005",
+	"author":	[
+		"Gretton, A.",
+		"Smola, A.J.",
+		"Bousquet, O.",
+		"Herbrich, R.",
+		"Belitski, A.",
+		"Augath, M.",
+		"Murayama, Y.",
+		"Pauls, J.",
+		"Sch\u00F6lkopf, B.",
+		"Logothetis, N."
+	],
+	"editor":	"Z.Ghahramani and R.Cowell",
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Kernel Constrained Covariance for Dependence Measurement",
+	"decade":	"2005"
+	},
+	{
+	"pdf":	"papers/2010/Teoetal10.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"article",
+	"uri":	"urn:81ae35bacec353c86ed648ecacf49435",
+	"pages":	"311\u2010365",
+	"date":	"2010",
+	"author":	[
+		"Teo, C.H.",
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J.",
+		"Le, Q.V."
+	],
+	"volume":	"11",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Bundle Methods for Regularized Risk Minimization",
+	"decade":	"2010"
+	},
+	{
+	"publisher":	"Morgan Kaufmann Publishers",
+	"pdf":	"papers/2001/MikSmoSch01.pdf",
+	"booktitle":	"Artificial Intelligence and Statistics",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:9955c888e118f381f923afdb2f7378a3",
+	"pages":	"98\u2010104",
+	"date":	"2001",
+	"author":	[
+		"Mika, S.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"T.Jaakkola and T.Richardson",
+	"type":	"Publication",
+	"year":	"2001",
+	"note":	"Also: Microsoft Research TR-2000-77",
+	"label":	"An improved training algorithm for kernel Fisher discriminants",
+	"address":	"San Francisco, CA",
+	"decade":	"2001"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?6567458",
+	"booktitle":	"KDD 2011: Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:85a677cd274188ef8b6b41720bd73b8c",
+	"pages":	"123\u2010131",
+	"date":	"2011",
+	"author":	[
+		"Low, Y.",
+		"Agarwal, D.",
+		"Smola, A.J."
+	],
+	"doi":	"http://doi.acm.org/10.1145/2020408.2020434",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Multiple domain user personalization",
+	"location":	"San Diego, California, USA",
+	"address":	"New York, NY, USA",
+	"decade":	"2011"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	"papers/2007/GreBorRasSchSmo07.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 19",
+	"pub-type":	"incollection",
+	"uri":	"urn:38866a79b4241481cd4036a366665e1d",
+	"pages":	"513\u2010520",
+	"date":	"2007",
+	"author":	[
+		"Gretton, A.",
+		"Borgwardt, K.M.",
+		"Rasch, M.J.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"B.Sch\u00F6lkopf and J.Platt and T.Hoffman",
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"A Kernel Method for the Two-Sample-Problem",
+	"address":	"Cambridge, MA",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1998/SmoSch98b.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 10",
+	"postscript":	"papers/1998/SmoSch98b.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:c0c8c269a831a0b10913988fd699f940",
+	"pages":	"343\u2010349",
+	"date":	"1998",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"M.I.Jordan and M.J.Kearns and S.A.Solla",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"From regularization operators to support vector kernels",
+	"address":	"Cambridge, MA",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=7841",
+	"pub-type":	"book",
+	"uri":	"urn:45317dacd8c0c73525f073fe67a2cc05",
+	"date":	"1999",
+	"editor":	"B.Sch\u00F6lkopf and C.J.C.Burges and A.J.Smola",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Advances in Kernel Methods \u2013 Support Vector Learning",
+	"address":	"Cambridge, MA",
+	"decade":	"1999"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=3272",
+	"pub-type":	"book",
+	"uri":	"urn:a796ebfb5d7bc3163b5e1feaea6b30fe",
+	"date":	"2000",
+	"editor":	"A.J.Smola and P.L.Bartlett and B.Sch\u00F6lkopf and D.Schuurmans",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Advances in Large Margin Classifiers",
+	"address":	"Cambridge, MA",
+	"decade":	"2000"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/SmoEliSchWil00.pdf",
+	"booktitle":	"Advances in Large Margin Classifiers",
+	"postscript":	"papers/2000/SmoEliSchWil00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:3bc506f11f43fe216fda5b4721311787",
+	"pages":	"369\u2010387",
+	"date":	"2000",
+	"author":	[
+		"Smola, A.J.",
+		"Elisseeff, A.",
+		"Sch\u00F6lkopf, B.",
+		"Williamson, R.C."
+	],
+	"editor":	"A.J.Smola and P.L.Bartlett and B.Sch\u00F6lkopf and D.Schuurmans",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Entropy Numbers for Convex Combinations and MLPs",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"url":	"http://www.cs.cmu.edu/ amahmed/papers/MT_feature.pdf",
+	"booktitle":	"Conference on Information and Knowledge Management {CIKM}",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:b723aaebb0953138ad872159645bb445",
+	"date":	"2012",
+	"author":	[
+		"Ahmed, A.",
+		"Aly, M.",
+		"Das, A.",
+		"Smola, A.J.",
+		"Anastasakos, T."
+	],
+	"editor":	"G.Lebanon and M.Zaki and H.Wang",
+	"year":	"2012",
+	"type":	"Publication",
+	"label":	"Web-Scale Multi-Task Feature Selection for Behavioral Targeting",
+	"decade":	"2012"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	 "papers/1998/SchBarSmoWil98.pdf",
+	"booktitle":	"Proceedings of the International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1998/SchBarSmoWil98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:bdabc222b0bb02ce3512c0f15ca8ae11",
+	"pages":	"111\u2010116",
+	"date":	"1998",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Bartlett, P.L.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"series":	"Perspectives in Neural Computing",
+	"editor":	"L.Niklasson and M.Boden and T.Ziemke",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Support Vector Regression with Automatic Accuracy Control",
+	"address":	"Berlin",
+	"decade":	 "1998"
+	},
+	{
+	"url":	"http://jmlr.csail.mit.edu/proceedings/papers/v9/karatzoglou10a/karatzoglou10a.pdf",
+	"booktitle":	"Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics (AISTATS)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:e5e98ad8c2258844e6789e9c9f563561",
+	"pages":	"389\u2010396",
+	"date":	"2010",
+	"author":	[
+		"Karatzoglou, A.",
+		"Smola, A.J.",
+		"Weimer, M."
+	],
+	"volume":	"9",
+	"editor":	"Y.W.Teh and M.Titterington",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Collaborative Filtering on a Budget",
+	"decade":	"2010"
+	},
+	{
+	"publisher":	"Microtome Publishing",
+	"pdf":	"papers/2009/Quadriantoetal09.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"journal",
+	"uri":	"urn:7dde194006196a1c506b709cf6145721",
+	"pages":	"2349\u20102374",
+	"date":	"2009",
+	"author":	[
+		"Quadrianto, N.",
+		"Smola, A.J.",
+		"Caetano, T.S.",
+		"Le, Q.V."
+	],
+	"volume":	"10",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Estimating Labels from Label Proportions",
+	"decade":	"2009"
+	},
+	{
+	"pdf":	 "papers/2005/VisBorGutSmo05.pdf",
+	"journal":	"Neurocomputing",
+	"postscript":	"papers/2005/VisBorGutSmo05.ps.gz",
+	"pub-type":	"article",
+	"uri":	 "urn:b900105299f43864ef1553334c2a90da",
+	"date":	"2005",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Borgwardt, K.M.",
+		"Guttman, O.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2005",
+	"note":	"forthcoming",
+	"label":	"Kernel Extrapolation",
+	"decade":	 "2005"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://books.nips.cc/papers/files/nips20/NIPS2007_1047.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 20",
+	"pub-type":	"incollection",
+	"uri":	"urn:c024c5c31c8ead30614f6c1abe654d8a",
+	"date":	"2008",
+	"author":	[
+		"Teo, C.H.",
+		"Globerson, A.",
+		"Roweis, S.",
+		"Smola, A.J."
+	],
+	"editor":	"J.C.Platt and D.Koller and Y.Singer and S.Roweis",
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Convex Learning with Invariances",
+	"address":	"Cambridge, MA",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/RatSchSmoMuletal00.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 12",
+	"postscript":	"papers/2000/RatSchSmoMuletal00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:608a417ef4f573b8ebe86c2d07127720",
+	"pages":	"561\u2010567",
+	"date":	"2000",
+	"author":	[
+		"R\u00E4tsch, G.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R.",
+		"Onoda, T.",
+		"Mika, S."
+	],
+	"editor":	"S.A.Solla and T.K.Leen and K.-R.M\u00FCller",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Ensemble Learning in the Presence of Outliers",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"publisher":	"IEEE Computer Society",
+	"url":	"http://dx.doi.org/10.1109/ICDMW.2010.120",
+	"booktitle":	"ICDMW 2010: Proceedings of the 2010 IEEE International Conference on Data Mining Workshops",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:8ebdbd0067675bdcedc5578114867c94",
+	"pages":	"1220\u20101227",
+	"date":	"2010",
+	"author":	[
+		"Quadrianto, N.",
+		"Schuurmans, D.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Distributed Flow Algorithms for Scalable Similarity Visualization",
+	"address":	"Washington, DC, USA",
+	"decade":	"2010"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/1999/WilSmoSch99b.pdf",
+	"booktitle":	"Computational Learning Theory: 4th European Conference",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:d5d600bd36838177be3dc75c7ab52557",
+	"pages":	"285\u2010299",
+	"date":	"1999",
+	"author":	[
+		"Williamson, R.C.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"series":	"Lecture Notes in Artificial Intelligence",
+	"volume":	"1572",
+	"editors":	"P.Fischer and H.U.Simon",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Entropy numbers, operators and support vector kernels",
+	"decade":	"1999"
+	},
+	{
+	"pdf":	"papers/1998/SmoSchMul98.pdf",
+	"journal":	"Neural Networks",
+	"pub-type":	"article",
+	"uri":	"urn:944a8e73dbb4bbcd2f936db54976c907",
+	"pages":	"637\u2010649",
+	"date":	"1998",
+	"number":	"5",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B.",
+		"M\u00FCller, K.-R."
+	],
+	"volume":	"11",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"The Connection between Regularization Operators and Support Vector Kernels",
+	"decade":	"1998"
+	},
+	{
+	"booktitle":	"International Conference Computational Science",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:ef10c89957f18d2860ee912ef7362911",
+	"date":	"2008",
+	"author":	[
+		"Zein, A.El",
+		"McCreath, E.",
+		"Rendell, A.P.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Performance Evaluation of the NVIDIA GeForce 8800 GTX GPU for Machine Learning",
+	"decade":	"2008"
+	},
+	{
+	"pdf":	"papers/2004/SmoSch04.pdf",
+	"journal":	"Statistics and Computing",
+	"pub-type":	"article",
+	"uri":	"urn:1724c5f0dab8b334f68871892aed3d91",
+	"pages":	"199\u2010222",
+	"date":	"2004",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"volume":	"14",
+	"type":	"Publication",
+	"year":	"2004",
+	"label":	"A Tutorial on Support Vector Regression",
+	"decade":	"2004"
+	},
+	{
+	"publisher":	"Kluwer Academic Publishers",
+	"url":	"http://dx.doi.org/10.1007/s11263-010-0384-0",
+	"journal":	"Int.J.Comput.Vision",
+	"pub-type":	"article",
+	"uri":	"urn:b85618fa6bd72bb79263db1f0368d7aa",
+	"pages":	"22\u201032",
+	"date":	"2011",
+	"number":	"1",
+	"author":	[
+		"Shi, Q.",
+		"Cheng, L.",
+		"Li, W.",
+		"Smola, A.J."
+	],
+	"volume":	"93",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Human Action Segmentation and Recognition Using Discriminative Semi-Markov Models",
+	"issn":	"0920-5691",
+	"address":	"Hingham, MA, USA",
+	"decade":	"2011"
+	},
+	{
+	"pdf":	 "papers/2003/VisMurSmo03.pdf",
+	"booktitle":	"Proceedings of the International Conference on Machine Learning",
+	"postscript":	"papers/2003/VisMurSmo03.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:d7ecdce5e6726da24d8c13d3273d3802",
+	"date":	"2003",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Murty, M.N.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"SSVM: A Simple SVM Algorithm",
+	"decade":	 "2003"
+	},
+	{
+	"pdf":	"papers/2004/KivSmoWil04.pdf",
+	"journal":	"IEEE Transactions on Signal Processing",
+	"pub-type":	"article",
+	"uri":	"urn:3f9a6f6efd811a7839eb771dfe3991b7",
+	"date":	"2004-08",
+	"number":	"8",
+	"author":	[
+		"Kivinen, J.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"volume":	"52",
+	"month":	"Aug",
+	"type":	"Publication",
+	"year":	"2004",
+	"label":	"Online Learning with Kernels",
+	"decade":	"2004"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://doi.acm.org/10.1145/1454008.1454050",
+	"booktitle":	"ACM conference on Recommender systems (RecSys)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:6cf52eb656e7ccdd93d3551e8091c553",
+	"pages":	"275\u2010282",
+	"date":	"2008",
+	"author":	[
+		"Weimer, M.",
+		"Karatzoglou, A.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Adaptive collaborative filtering",
+	"location":	"Lausanne, Switzerland",
+	"decade":	"2008"
+	},
+	{
+	"pdf":	"papers/1999/SchMikBurKnietal99.pdf",
+	"journal":	"IEEE Transactions on Neural Networks",
+	"pub-type":	"article",
+	"uri":	"urn:2e57a8c44a40bf3d539f1823d9639451",
+	"pages":	"1000\u20101017",
+	"date":	"1999",
+	"number":	"5",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Mika, S.",
+		"Burges, C.J.C.",
+		"Knirsch, P.",
+		"M\u00FCller, K.-R.",
+		"R\u00E4tsch, G.",
+		"Smola, A.J."
+	],
+	"volume":	"10",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Input Space vs. Feature Space in Kernel-Based Methods",
+	"decade":	"1999"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?6666391",
+	"booktitle":	"WSDM 2012: Proceedings of the fifth ACM international conference on Web search and data mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0b09ce766bc539fbadc3328f3603658c",
+	"pages":	"123\u2010132",
+	"date":	"2012",
+	"author":	[
+		"Ahmed, A.",
+		"Aly, M.",
+		"Gonzalez, J.",
+		"Narayanamurthy, S.",
+		"Smola, A.J."
+	],
+	"doi":	"http://doi.acm.org/10.1145/2124295.2124312",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"Scalable inference in latent variable models",
+	"location":	"Seattle, Washington, USA",
+	"address":	"New York, NY, USA",
+	"decade":	"2012"
+	},
+	{
+	"pdf":	"papers/2003/ChaSchSmo03.pdf",
+	"journal":	"Neural Networks",
+	"pub-type":	"article",
+	"uri":	"urn:0090589d5c0038f0c1f1921d963fe7b3",
+	"date":	"2003",
+	"author":	[
+		"Chalimourda, A.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"year":	"2003",
+	"type":	"Publication",
+	"label":	"Choosing v in support vector regression with different noise models \u2013 theory and experiments",
+	"decade":	"2003"
+	},
+	{
+	"pdf":	"papers/2004/AltHofSmo04.pdf",
+	"booktitle":	"International Conference on Machine Learning ICML",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f0e504ca3d476f66623e1831ebf3cacb",
+	"date":	"2004",
+	"author":	[
+		"Altun, Y.",
+		"Hofmann, T.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2004",
+	"label":	"Gaussian Process Classification for Segmenting and Annotating Sequences",
+	"decade":	"2004"
+	},
+	{
+	"pdf":	"papers/2005/CanSmo05.pdf",
+	"journal":	"Neurocomputing",
+	"pub-type":	"article",
+	"uri":	"urn:c37639f409957899449a67f5c57a6f9a",
+	"date":	"2005",
+	"author":	[
+		"Canu, S.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"note":	"in press",
+	"year":	"2005",
+	"label":	"Kernel methods and the exponential family",
+	"decade":	"2005"
+	},
+	{
+	"pdf":	"papers/2009/SonHuaSmoetal09.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:57747eb1cafdd4b5f22d5e0dde7e3770",
+	"date":	"2009",
+	"author":	[
+		"Song, L.",
+		"Huang, J.",
+		"Smola, A.J.",
+		"Fukumizu, K."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Hilbert space embeddings of conditional distributions",
+	"decade":	"2009"
+	},
+	{
+	"url":	"http://www.cse.wustl.edu/kilian/papers/Attenberg-etal-VBNov09.pdf",
+	"journal":	"Virus Bulletin",
+	"pub-type":	"article",
+	"uri":	"urn:7b4fb44599c265fa4bd4c2f4b3c1d16e",
+	"date":	"2009-11",
+	"author":	[
+		"Attenberg, J.",
+		"Weinberger, K.Q.",
+		"Smola, A.J.",
+		"Dasgupta, A.",
+		"Zinkevich, M."
+	],
+	"month":	"November",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Collaborative Spam Filtering with the Hashing Trick",
+	"decade":	"2009"
+	},
+	{
+	"pdf":	 "papers/1999/VanMulSmoSchetal99.pdf",
+	"booktitle":	"Proceedings of AIHENP 1999",
+	"postscript":	"papers/1999/VanMulSmoSchetal99.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:70ffe99bcbace5c3b0ba644c1425f9da",
+	"date":	"1999",
+	"author":	[
+		"Vannerem, P.",
+		"M\u00FCller, K.-R.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B.",
+		"S\u00F6ldner-Rembold, S."
+	],
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Classifying LEP Data with Support Vector Algorithms",
+	"decade":	 "1999"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	"papers/1999/SchSmoMul99.pdf",
+	"booktitle":	"Advances in Kernel Methods \u2013 Support Vector Learning",
+	"pub-type":	"incollection",
+	"uri":	"urn:368adf3071e5bb13bf199a2a3120eef8",
+	"pages":	"327\u2010352",
+	"date":	"1999",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R."
+	],
+	"editor":	"B.Sch\u00F6lkopf and C.J.C.Burges and A.J.Smola",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Kernel Principal Component Analysis",
+	"address":	"Cambridge, MA",
+	"decade":	"1999"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?6550326",
+	"booktitle":	"SIGIR 2011: Proceedings of the 34th international ACM SIGIR conference on Research and development in Information Retrieval",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:c378e455ec07f0f3407e43ab9104eb7d",
+	"pages":	"295\u2010304",
+	"date":	"2011",
+	"author":	[
+		"Yang, S.H.",
+		"Long, B.",
+		"Smola, A.J.",
+		"Zha, H.",
+		"Zheng, Z."
+	],
+	"doi":	"http://doi.acm.org/10.1145/2009916.2009959",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Collaborative competitive filtering: learning recommender using context of user choice",
+	"location":	"Beijing, China",
+	"address":	"New York, NY, USA",
+	"decade":	"2011"
+	},
+	{
+	"url":	 "http://dx.doi.org/10.1007/11893028_119",
+	"pdf":	 "papers/2006/SheHueSmo06.pdf",
+	"booktitle":	"ICONIP",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:57456fa2855e597dedd9214a7cc52e31",
+	"b2hproject":	"sml",
+	"pages":	"1068\u20101077",
+	"date":	"2006",
+	"author":	[
+		"Shen, H.",
+		"H\u00FCper, K.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Newton-Like Methods for Nonparametric Independent Component Analysis",
+	"decade":	 "2006"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2001/SmoOvaWil01.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 13",
+	"postscript":	"papers/2001/SmoOvaWil01.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:d5c5224275d2181262bd7bb3a1926691",
+	"pages":	"308\u2010314",
+	"date":	"2001",
+	"author":	[
+		"Smola, A.J.",
+		"Ovari, Z.L.",
+		"Williamson, R.C."
+	],
+	"editor":	"T.K.Leen and T.G.Dietterich and V.Tresp",
+	"type":	"Publication",
+	"year":	"2001",
+	"label":	"Regularization with dot-product kernels",
+	"decade":	 "2001"
+	},
+	{
+	"pdf":	"papers/1999/SchMulSmo99.pdf",
+	"journal":	"Informatik Forschung und Entwicklung",
+	"pub-type":	"article",
+	"uri":	"urn:f393ceb085d19cd7a56995ac534ff476",
+	"pages":	"154\u2010163",
+	"date":	"1999",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"M\u00FCller, K.-R.",
+		"Smola, A.J."
+	],
+	"volume":	"14",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Lernen mit Kernen",
+	"issue":	"3",
+	"decade":	"1999"
+	},
+	{
+	"id":	 "0eaf3ebb0378fa29cfb47f6866856c82",
+	"pdf":	"papers/2008/QuaSmoCaeLe08.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0eaf3ebb0378fa29cfb47f6866856c82",
+	"date":	"2008",
+	"author":	[
+		"Quadrianto, N.",
+		"Smola, A.J.",
+		"Caetano, T.S.",
+		"Le, Q.V."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Estimating Labels from Label Proportions",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1999/SmoFriSch99.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 11",
+	"postscript":	"papers/1999/SmoFriSch99.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:d6cbd87b8baffc73c0c4e9758c278009",
+	"pages":	"585\u2010591",
+	"date":	"1999",
+	"author":	[
+		"Smola, A.J.",
+		"Friess, T.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"M.S.Kearns and S.A.Solla and D.A.Cohn",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Semiparametric support vector and linear programming machines",
+	"address":	"Cambridge, MA",
+	"decade":	 "1999"
+	},
+	{
+	"pdf":	"papers/2007/CaeCheLeSmo07.pdf",
+	"booktitle":	"International Conference on Computer Vision",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f3fa19b64f3109e093084d3013d76bb9",
+	"date":	"2007",
+	"author":	[
+		"Caetano, T.S.",
+		"Cheng, L.",
+		"Le, Q.V.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"Learning Graph Matching",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/citation.cfm?id=2339530",
+	"booktitle":	"International Conference on Knowledge Discovery and Data Mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:849d9074555c7c61dd1492bea92ebe7d",
+	"pages":	"177\u2010185",
+	"date":	"2012",
+	"author":	[
+		"Matsushima, S.",
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J."
+	],
+	"editor":	"Q.Yang and D.Agarwal and J.Pei",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"Linear support vector machines via dual cached loops",
+	"decade":	"2012"
+	},
+	{
+	"ps":	 "papers/2004/AltSmoHof04.ps.gz",
+	"pdf":	"papers/2004/AltSmoHof04.pdf",
+	"booktitle":	"Uncertainty in Artificial Intelligence UAI",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:236e585f8ea11be3c18d24a859f65836",
+	"date":	"2004",
+	"author":	[
+		"Altun, Y.",
+		"Hofmann, T.",
+		"Smola, A.J."
+	],
+	"year":	"2004",
+	"type":	"Publication",
+	"label":	"Exponential Families for Conditional Random Fields",
+	"decade":	"2004"
+	},
+	{
+	"publisher":	"IEE",
+	"pdf":	 "papers/1999/SchShaSmoWil99b.pdf",
+	"booktitle":	"Ninth International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1999/SchShaSmoWil99b.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:f399c728969099a0520ce365fede9722",
+	"pages":	"103\u2010108",
+	"date":	"1999",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Shawe-Taylor, J.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"series":	"Conference Publications No.470",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Kernel-Dependent Support Vector Error Bounds",
+	"address":	"London",
+	"decade":	 "1999"
+	},
+	{
+	"url":	"http://doi.acm.org/10.1145/1143844.1143910",
+	"pdf":	"papers/2006/LeGaeSmo06.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:28faf51a7b0d7e48c7f50f8844c1d603",
+	"pages":	"521\u2010528",
+	"date":	"2006",
+	"author":	[
+		"Le, Q.V.",
+		"Smola, A.J.",
+		"G\u00E4rtner, T."
+	],
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Simpler Knowledge-based Support Vector Machines",
+	"decade":	"2006"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/OliSchSmo00.pdf",
+	"booktitle":	"Advances in Large Margin Classifiers",
+	"postscript":	"papers/2000/OliSchSmo00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:4ab6bfaa939ec74250be1441d92e8e64",
+	"pages":	"51\u201060",
+	"date":	"2000",
+	"author":	[
+		"Oliver, N.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"A.J.Smola and P.L.Bartlett and B.Sch\u00F6lkopf and D.Schuurmans",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Natural Regularization in SVMs",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"pdf":	"papers/2009/Zhangetal09.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 22",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:fc70c970011e3265dcf661780b9fed91",
+	"date":	"2009",
+	"author":	[
+		"Zhang, X.",
+		"Song, L.",
+		"Gretton, A.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Kernel Measures of Independence for non-id Data",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"IEE",
+	"pdf":	 "papers/1999/SmoSchRat99.pdf",
+	"booktitle":	"Ninth International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1999/SmoSchRat99.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:563ff6ce0539e6fec44f37017beb3a91",
+	"pages":	"575\u2010580",
+	"date":	"1999",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B.",
+		"R\u00E4tsch, G."
+	],
+	"series":	"Conference Publications No.470",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Linear programs for automatic accuracy control in regression",
+	"address":	"London",
+	"decade":	 "1999"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/citation.cfm?id=2187836",
+	"booktitle":	"World Wide Web Conference",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:e8e072d98a54f7a98b9c08cd1e866a38",
+	"pages":	"769\u2010778",
+	"date":	"2012",
+	"author":	[
+		"Hong, L.",
+		"Ahmed, A.",
+		"Gurumurthy, S.",
+		"Smola, A.J.",
+		"Tsioutsiouliklis, K."
+	],
+	"editor":	"A.Mille and F.L.Gandon and J.Misselis and M.Rabinovich and S.Staab",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"Discovering geographical topics in the twitter stream",
+	"decade":	"2012"
+	},
+	{
+	"pdf":	"papers/2000/SchSmoWilBar00.pdf",
+	"journal":	"Neural Computation",
+	"pub-type":	"article",
+	"uri":	"urn:be22b2f76c6050f9a5357ca16097400a",
+	"pages":	"1207\u20101245",
+	"date":	"2000",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"Williamson, R.C.",
+		"Bartlett, P.L."
+	],
+	"volume":	"12",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"New Support Vector Algorithms",
+	"issue":	"5",
+	"decade":	"2000"
+	},
+	{
+	"url":	"http://books.nips.cc/papers/files/nips23/NIPS2010_1162.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 23",
+	"pub-type":	"incollection",
+	"uri":	"urn:3223a3ebf4be54c767f26b5633f1088d",
+	"pages":	"2595\u20102603",
+	"date":	"2010",
+	"author":	[
+		"Zinkevich, M.",
+		"Weimer, M.",
+		"Smola, A.J.",
+		"Li, L."
+	],
+	"editor":	"J.Lafferty and C.K.I.Williams and J.Shawe-Taylor and R.S.Zemel and A.Culotta",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Parallelized Stochastic Gradient Descent",
+	"decade":	"2010"
+	},
+	{
+	"pdf":	"papers/2009/Shietal09.pdf",
+	"booktitle":	"Artificial Intelligence and Statistics {AISTATS} 2009",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:7e60de72ceb53fbb0f0237c0467ca7e5",
+	"date":	"2009-04",
+	"author":	[
+		"Shi, Q.",
+		"Petterson, J.",
+		"Dror, G.",
+		"Langford, J.",
+		"Smola, A.J.",
+		"Strehl, A.",
+		"Vishwanathan, S.V.N."
+	],
+	"month":	"April",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Hash Kernels",
+	"address":	"Florida",
+	"decade":	"2009"
+	},
+	{
+	"pdf":	"papers/2005/GreBouSmoSch05.pdf",
+	"booktitle":	"Proceedings Algorithmic Learning Theory",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:4035479b63b88a15defba548b5e2a972",
+	"date":	"2005",
+	"author":	[
+		"Gretton, A.",
+		"Bousquet, O.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"S.Jain and W.-S.Lee",
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Measuring Statistical Dependence with Hilbert-Schmidt Norms",
+	"decade":	"2005"
+	},
+	{
+	"publisher":	"IEE",
+	"pdf":	 "papers/1999/GraHerSchSmo99.pdf",
+	"booktitle":	"Ninth International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1999/GraHerSchSmo99.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:6ee1b4f93fe0cfeb71859b4c0d92bc90",
+	"pages":	"304\u2010309",
+	"date":	"1999",
+	"author":	[
+		"Graepel, T.",
+		"Herbrich, R.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"Bartlett, P.L.",
+		"M\u00FCller, K.-R.",
+		"Obermayer, K.",
+		"Williamson, R.C."
+	],
+	"series":	"Conference Publications No.470",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Classification on proximity data with LP-machines",
+	"address":	"London",
+	"decade":	 "1999"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	"papers/1999/MulSmoratSchetal99.pdf",
+	"booktitle":	"Advances in Kernel Methods \u2013 Support Vector Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:8bb94204d19a4b4712f8ec41141b1956",
+	"pages":	"243\u2010254",
+	"date":	"1999",
+	"author":	[
+		"M\u00FCller, K.-R.",
+		"Smola, A.J.",
+		"R\u00E4tsch, G.",
+		"Sch\u00F6lkopf, B.",
+		"Kohlmorgen, J.",
+		"Vapnik, V."
+	],
+	"editor":	"B.Sch\u00F6lkopf and C.J.C.Burges and A.J.Smola",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Predicting Time Series with Support Vector Machines",
+	"address":	"Cambridge, MA",
+	"decade":	"1999"
+	},
+	{
+	"url":	"http://books.nips.cc/papers/files/nips23/NIPS2010_0566.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 23",
+	"pub-type":	"incollection",
+	"uri":	"urn:84ced0fc4eac2882d6f5330a966a4875",
+	"pages":	"1921\u20101929",
+	"date":	"2010",
+	"author":	[
+		"Petterson, J.",
+		"Smola, A.J.",
+		"Caetano, T.S.",
+		"Buntine, W.",
+		"Narayanamurthy, S."
+	],
+	"editor":	"J.Lafferty and C.K.I.Williams and J.Shawe-Taylor and R.S.Zemel and A.Culotta",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Word Features for Latent Dirichlet Allocation",
+	"decade":	"2010"
+	},
+	{
+	"pdf":	"papers/2001/WilSmoSch01.pdf",
+	"journal":	"IEEE Transaction on Information Theory",
+	"pub-type":	"article",
+	"uri":	"urn:3817fc3dd59353f04430cd0c5e555c66",
+	"pages":	"2516\u20102532",
+	"date":	"2001",
+	"number":	"6",
+	"author":	[
+		"Williamson, R.C.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"volume":	"47",
+	"type":	"Publication",
+	"year":	"2001",
+	"label":	"Generalization bounds for regularization networks and support vector machines via entropy numbers of compact operators",
+	"decade":	"2001"
+	},
+	{
+	"id":	"aa36162f8a7c544be6158589f2f9c111",
+	"pdf":	 "papers/2003/SmoSch03b.pdf",
+	"journal":	"Statistics and Computing",
+	"postscript":	"papers/2003/SmoSch03b.ps.gz",
+	"pub-type":	"article",
+	"uri":	 "urn:aa36162f8a7c544be6158589f2f9c111",
+	"date":	"2003",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"type":	"Publication",
+	"year":	"2003",
+	"note":	"in press",
+	"label":	"A Tutorial on Support Vector Regression",
+	"decade":	 "2003"
+	},
+	{
+	"publisher":	"MIT Press",
+	"booktitle":	"Machine Learning with Structured Outputs",
+	"pub-type":	"incollection",
+	"uri":	 "urn:9721a1dee6874fe7f610f72704840597",
+	"b2hproject":	"sml",
+	"date":	"2007",
+	"author":	[
+		"Altun, Y.",
+		"Smola, A.J."
+	],
+	"editor":	"G.Bakir and T.Hofmann and B.Sch\u00F6lkopf and A.J.Smola and B.Taskar and S.V.N.Vishwanathan",
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"Density estimation of Structured Outputs in RKHS",
+	"decade":	 "2007"
+	},
+	{
+	"publisher":	"Morgan Kaufmann Publishers",
+	"pdf":	 "papers/2000/WilSmoSch00.pdf",
+	"booktitle":	"Proceedings of the Annual Conference on Computational Learning Theory",
+	"postscript":	"papers/2000/WilSmoSch00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:c098580e76d3a21cc2d7a308cea36d3f",
+	"pages":	"309\u2010319",
+	"date":	"2000",
+	"author":	[
+		"Williamson, R.C.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"N.Cesa-Bianchi and S.Goldman",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Entropy numbers of linear function classes",
+	"address":	"San Francisco",
+	"decade":	 "2000"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	 "papers/1998/SmoSchMul98c.pdf",
+	"booktitle":	"Proceedings of the International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1998/SmoSchMul98c.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:5153318fca021c70b5c8adf9e0eb93cc",
+	"pages":	"99\u2010104",
+	"date":	"1998",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B.",
+		"M\u00FCller, K.-R."
+	],
+	"series":	"Perspectives in Neural Computing",
+	"editor":	"L.Niklasson and M.Boden and T.Ziemke",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Convex Cost Functions for Support Vector Regression",
+	"address":	"Berlin",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/SchWilSmoShaetal00.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 12",
+	"postscript":	"papers/2000/SchWilSmoShaetal00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:a1d8dbfd9f747da44657538f3f09daa9",
+	"pages":	"582\u2010588",
+	"date":	"2000",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Williamson, R.C.",
+		"Smola, A.J.",
+		"Shawe-Taylor, J.",
+		"Platt, J.C."
+	],
+	"editor":	"S.A.Solla and T.K.Leen and K.-R.M\u00FCller",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Support Vector Method for Novelty Detection",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"pdf":	"papers/2007/SonSmoGreetal07a.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:cf913bd505ed2a425dfb59e7f2208123",
+	"date":	"2007",
+	"author":	[
+		"Song, L.",
+		"Smola, A.J.",
+		"Gretton, A.",
+		"Borgwardt, K.M."
+	],
+	"editor":	"C.Sammut and Z.Ghahramani",
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"A dependence maximization view of clustering",
+	"decade":	"2007"
+	},
+	{
+	"pdf":	"papers/2009/Chapelleetal09.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 22",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:433587b212442dd9d4b9bee5cc8cebb0",
+	"date":	"2009",
+	"author":	[
+		"Chapelle, O.",
+		"Do, C.",
+		"Le, Q.V.",
+		"Smola, A.J.",
+		"Teo, C.H."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Tighter Bounds for Structured Estimation",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"306-317",
+	"pdf":	 "papers/2006/LeSmoGaeAlt06.pdf",
+	"booktitle":	"European Conference of Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:bfe43da61e2a6a25867ec549b39e5d3f",
+	"b2hproject":	"sml",
+	"date":	"2006",
+	"author":	[
+		"Le, Q.V.",
+		"Smola, A.J.",
+		"G\u00E4rtner, T.",
+		"Altun, Y."
+	],
+	"series":	"LNAI",
+	"volume":	"4212",
+	"editor":	"J.F\u00FCrnkranz and T.Scheffer and M.Spiliopoulou",
+	"type":	"Publication",
+	"year":	"2006",
+	"note":	"ECML Best paper award",
+	"label":	"Transductive Gaussian Process Regression with Automatic Model Selection",
+	"decade":	 "2006"
+	},
+	{
+	"pdf":	 "papers/2002/KivSmoWil02b.pdf",
+	"booktitle":	"Neural Information Processing Systems",
+	"postscript":	"papers/2002/KivSmoWil02b.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:72046d2a61292f4ab4e48f8ba85bc2cd",
+	"date":	"2002",
+	"author":	[
+		"Kivinen, J.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Large Margin Classification for Drifting Targets",
+	"decade":	 "2002"
+	},
+	{
+	"id":	 "42f5d6114f27bdfe5c4b258c07ecd5a8",
+	"booktitle":	"Proceedings IEEE-INNS-ENNS International Joint Conference on Neural Networks (IJCNN 2000)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:42f5d6114f27bdfe5c4b258c07ecd5a8",
+	"date":	"2000",
+	"author":	[
+		"Chalimourda, A.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"year":	"2000",
+	"type":	"Publication",
+	"label":	"Choosing v in support vector regression with different noise models \u2013 theory and experiments",
+	"address":	"Como, Italy",
+	"decade":	"2000"
+	},
+	{
+	"publisher":	"J.Wiley and Sons",
+	"booktitle":	"Mining Graph Data",
+	"pub-type":	"incollection",
+	"uri":	"urn:55c9f726d01712765d2b5422851fb45a",
+	"date":	"2006",
+	"author":	[
+		"G\u00E4rtner, T.",
+		"Horvath, T.",
+		"Le, Q.V.",
+		"Smola, A.J."
+	],
+	"editor":	"D.J.Cook and L.B.Holder",
+	"year":	"2006",
+	"type":	"Publication",
+	"label":	"Kernel Methods for Graphs",
+	"decade":	"2006"
+	},
+	{
+	"publisher":	"ACM",
+	"pdf":	"papers/2010/MooSmoChaZhe10.pdf",
+	"booktitle":	"Proceedings of the Third International Conference on Web Search and Web Data Mining, {WSDM}",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f334fbaa076351e173ab1bb8bd671990",
+	"pages":	"151\u2010160",
+	"date":	"2010",
+	"author":	[
+		"Moon, T.",
+		"Smola, A.J.",
+		"Chang, Y.",
+		"Zheng, Z."
+	],
+	"editor":	"B.D.Davison and T.Suel and N.Craswell and B.Liu",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"IntervalRank: isotonic regression with listwise and pairwise constraints",
+	"decade":	"2010"
+	},
+	{
+	"pdf":	"papers/2001/SchPlaShaSmoetal01.pdf",
+	"journal":	"Neural Computation",
+	"pub-type":	"article",
+	"uri":	"urn:63d12fdf2592795af4866ae8208b0527",
+	"date":	"2001",
+	"number":	"7",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Platt, J.C.",
+		"Shawe-Taylor, J.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"volume":	"13",
+	"type":	"Publication",
+	"year":	"2001",
+	"label":	"Estimating the support of a high-dimensional distribution",
+	"decade":	"2001"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?6567457",
+	"booktitle":	"KDD 2011: Proceedings of the 17th ACM SIGKDD international conference on Knowledge discovery and data mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:b7f39e994f16f8371cc8c6fc716f8756",
+	"pages":	"114\u2010122",
+	"date":	"2011",
+	"author":	[
+		"Ahmed, A.",
+		"Low, Y.",
+		"Aly, M.",
+		"Josifovski, V.",
+		"Smola, A.J."
+	],
+	"doi":	"http://doi.acm.org/10.1145/2020408.2020433",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Scalable distributed inference of dynamic user interests for behavioral targeting",
+	"location":	"San Diego, California, USA",
+	"address":	"New York, NY, USA",
+	"decade":	"2011"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	 "papers/1998/SchKniSmoBur98.pdf",
+	"booktitle":	"Mustererkennung 1998 \u2013 20.DAGM-Symposium",
+	"postscript":	"papers/1998/SchKniSmoBur98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:d2da5142c5f17f950fa8fd2ce61abe9a",
+	"pages":	"124\u2010132",
+	"date":	"1998",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Knirsch, P.",
+		"Smola, A.J.",
+		"Burges, C.J.C."
+	],
+	"series":	"Informatik aktuell",
+	"editor":	"P.Levi and M.Schanz and R.-J.Ahlers and F.May",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Fast Approximation of Support Vector Kernel Expansions, and an Interpretation of Clustering as Approximation in Feature Spaces",
+	"address":	"Berlin",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2002/OngSmoWil02.pdf",
+	"booktitle":	"Neural Information Processing Systems",
+	"postscript":	"papers/2002/OngSmoWil02.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:3a8b627d85ab034ae28777e2b428a3cf",
+	"date":	"2002",
+	"author":	[
+		"Ong, C.S.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"volume":	"15",
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Hyperkernels",
+	"decade":	 "2002"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/MikRatWesSchetal00.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 12",
+	"postscript":	"papers/2000/MikRatWesSchetal00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:881aea9939b189be999bb12d6da11b58",
+	"pages":	"526\u2010532",
+	"date":	"2000",
+	"author":	[
+		"Mika, S.",
+		"R\u00E4tsch, G.",
+		"Weston, J.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R."
+	],
+	"editor":	"S.A.Solla and T.K.Leen and K.-R.M\u00FCller",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Invariant Feature Extraction and Classification in Kernel Spaces",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://books.nips.cc/papers/files/nips20/NIPS2007_0730.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 20",
+	"pub-type":	"incollection",
+	"uri":	"urn:90c395cc6987dd4864335e0ae80b714a",
+	"date":	"2008",
+	"author":	[
+		"Gretton, A.",
+		"Fukumizu, K.",
+		"Teo, C.H.",
+		"Song, L.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"J.C.Platt and D.Koller and Y.Singer and S.Roweis",
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"A Kernel Statistical Test of Independence",
+	"address":	"Cambridge, MA",
+	"decade":	"2008"
+	},
+	{
+	"pdf":	"papers/2009/SmoSonTeo09.pdf",
+	"booktitle":	"AI and Statistics",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:89571f651a14ee4019d23f7fa8cfae5c",
+	"date":	"2009",
+	"author":	[
+		"Smola, A.J.",
+		"Song, L.",
+		"Teo, C.H."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Relative Novelty Detection",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://www.learning-with-kernels.org",
+	"pub-type":	"book",
+	"uri":	"urn:cb02011871e86cc3b5035130b79d0d24",
+	"date":	"2002",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Learning with Kernels",
+	"decade":	"2002"
+	},
+	{
+	"pdf":	 "papers/2006/PanBhaSmo06.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"article",
+	"uri":	 "urn:2da970343ceb0da14df08ada469c7cc5",
+	"b2hproject":	"sml",
+	"pages":	"1283\u20101314",
+	"date":	"2006-07",
+	"author":	[
+		"Pannagadatta, K.S.",
+		"Bhattacharyya, C.",
+		"Smola, A.J."
+	],
+	"volume":	"7",
+	"month":	"July",
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Second Order Cone Programming Approaches for Handling Missing and Uncertain Data",
+	"decade":	 "2006"
+	},
+	{
+	"pdf":	"papers/2007/SonSmoGreetal07.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:5777708051bd734bbd64f5a03311e0ce",
+	"date":	"2007",
+	"author":	[
+		"Song, L.",
+		"Smola, A.J.",
+		"Gretton, A.",
+		"Borgwardt, K.M.",
+		"Bedo, J."
+	],
+	"editor":	"C.Sammut and Z.Ghahramani",
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"Supervised Feature Selection via Dependence Estimation",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/citation.cfm?id=2348283",
+	"booktitle":	"{SIGIR} conference on research and development in Information Retrieval",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:4a5388b033a067902f2cbcbe3a8f69cf",
+	"pages":	"555\u2010564",
+	"date":	"2012",
+	"author":	[
+		"Yang, S.H.",
+		"Smola, A.J.",
+		"Long, B.",
+		"Zha, H.",
+		"Chang, Y."
+	],
+	"editor":	"W.R.Hersh and J.Callan and Y.Maarek and M.Sanderson",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"Friend or frenemy?: predicting signed ties in social networks",
+	"decade":	"2012"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?405233",
+	"booktitle":	"WWW 2011: Proceedings of the 20th international conference on World wide web",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:231621ffcf1fe166986b715138ddbc06",
+	"pages":	"267\u2010276",
+	"date":	"2011",
+	"author":	[
+		"Ahmed, A.",
+		"Ho, Q.",
+		"Eisenstein, J.",
+		"Xing, E.P.",
+		"Smola, A.J.",
+		"Teo, C.H."
+	],
+	"doi":	"http://doi.acm.org/10.1145/1963405.1963445",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Unified analysis of streaming news",
+	"location":	"Hyderabad, India",
+	"address":	"New York, NY, USA",
+	"decade":	"2011"
+	},
+	{
+	"organization":	"IFAC",
+	"pdf":	"papers/2003/SmoVis03a.pdf",
+	"booktitle":	"Proceedings of the $13$th IFAC symposium on system identification",
+	"postscript":	"papers/2003/SmoVis03a.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:38ab390c8978559f31a28ffe2fc3090d",
+	"date":	"2003-08",
+	"author":	[
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N."
+	],
+	"month":	 "August",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	 "Hilbert space embeddings in dynamical systems",
+	"decade":	"2003"
+	},
+	{
+	"pdf":	"papers/2002/GaeFlaSmoKow02.pdf",
+	"booktitle":	"Proceedings of the 19th International Conference on Machine Learning ICML",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:14f148d729966cc308b0bcc5fb90bdb8",
+	"pages":	"179\u2010186",
+	"date":	"2002",
+	"author":	[
+		"G\u00E4rtner, T.",
+		"Flach, P.A.",
+		"Kowalczyk, A.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Multi-Instance Kernels",
+	"decade":	"2002"
+	},
+	{
+	"pdf":	"papers/2003/OngSmo03.pdf",
+	"booktitle":	"Proceedings of the International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:2b5f8c5154d4577a883de215e1269d0d",
+	"date":	"2003",
+	"author":	[
+		"Ong, C.S.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Machine Learning using Hyperkernels",
+	"decade":	"2003"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/2003/SchSmo03c.pdf",
+	"booktitle":	"Machine Learning, Proceedings of the Summer School, Australian National University",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:458ee168a1b9fcf8d36de4971a357bd5",
+	"pages":	"41\u201064",
+	"date":	"2003",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"S.Mendelson and A.J.Smola",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"A Short Introduction to Learning with Kernels",
+	"decade":	"2003"
+	},
+	{
+	"publisher":	"University of Queensland",
+	"pdf":	 "papers/1998/SchSmoMulBuretal98.pdf",
+	"booktitle":	"Proceedings of the Ninth Australian Conference on Neural Networks",
+	"postscript":	"papers/1998/SchSmoMulBuretal98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:14ca0487e1d408d75f8de8c55aca8d9a",
+	"pages":	"72\u201078",
+	"date":	"1998",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R.",
+		"Burges, C.J.C.",
+		"Vapnik, V."
+	],
+	"comment":	"Invited talk",
+	"editor":	"T.Downs and M.Frean and M.Gallagher",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Support Vector methods in learning and feature extraction",
+	"address":	"Brisbane, Australia",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"University of Queensland",
+	"pdf":	 "papers/1998/SmoSchMul98.pdf",
+	"booktitle":	"Proc. of the Ninth Australian Conference on Neural Networks",
+	"postscript":	"papers/1998/SmoSchMul98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:6562af53448b39231a68082b60fe82f7",
+	"pages":	"79\u201083",
+	"date":	"1998",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B.",
+		"M\u00FCller, K.-R."
+	],
+	"editor":	"T.Downs and M.Frean and M.Gallagher",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"General cost functions for Support Vector Regression",
+	"address":	"Brisbane, Australia",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"ieee",
+	"pdf":	"papers/2005/KarVisSchSmo05.pdf",
+	"booktitle":	"Proc. 8th Intl. Symp. Signal Processing & Applications",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:ee23685fd48d4c8430050563cd6bcb67",
+	"date":	"2005",
+	"author":	[
+		"Karatzoglou, A.",
+		"Vishwanathan, S.V.N.",
+		"Schraudolph, N.N.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2005",
+	"abstract":	"We present an online Support Vector Machine (SVM) that uses Stochastic Meta-Descent (SMD) to adapt its step size automatically. We formulate the online learning problem as a stochastic gradient descent in Reproducing Kernel Hilbert Space (RKHS) and translate SMD to the nonparametric setting, where its gradient trace parameter is no longer a coefficient vector but an element of the RKHS. We derive efficient updates that allow us to perform the step size adaptation in linear time. We apply the online SVM framework to a variety of loss functions and in particular show how to achieve efficient online multiclass classification.Experimental evidence suggests that our algorithm outperforms existing methods.",
+	"label":	"Step Size-Adapted Online Support Vector Learning",
+	"decade":	"2005"
+	},
+	{
+	"url":	"http://doi.acm.org/10.1145/1143844.1143922",
+	"pdf":	"papers/2006/McACaeSmoFra06.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:1861af8a536d4c6409ab79ae52a57a73",
+	"pages":	"617\u2010624",
+	"date":	"2006",
+	"author":	[
+		"McAuley, J.",
+		"Caetano, T.S.",
+		"Smola, A.J.",
+		"Franz, M."
+	],
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Learning High-Order MRF Priors of Color Images",
+	"decade":	"2006"
+	},
+	{
+	"pdf":	"papers/1998/SmoSch98.pdf",
+	"journal":	"Algorithmica",
+	"pub-type":	"article",
+	"uri":	"urn:5e0c54acdb5d67fca7aff2e7317bb210",
+	"pages":	"211\u2010231",
+	"date":	"1998",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"volume":	"22",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"On a Kernel-based Method for Pattern Recognition, Regression, Approximation and Operator Inversion",
+	"decade":	"1998"
+	},
+	{
+	"pdf":	"papers/2009/QuaPetSmo09.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 22",
+	"pub-type":	"incollection",
+	"uri":	"urn:fcbabf9bdaa5f38ded176ab9f7872427",
+	"pages":	"1500\u20101508",
+	"date":	"2009",
+	"author":	[
+		"Quadrianto, N.",
+		"Petterson, J.",
+		"Smola, A.J."
+	],
+	"editor":	"Y.Bengio and D.Schuurmans and J.Lafferty and C.K.I.Williams and A.Culotta",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Distribution Matching for Transduction",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	 "papers/2003/SmoKon03.pdf",
+	"booktitle":	"Proceedings of the Annual Conference on Computational Learning Theory",
+	"postscript":	"papers/2003/SmoKon03.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:a4f1133e76b6424ed4385e9f8a288d01",
+	"date":	"2003",
+	"author":	[
+		"Smola, A.J.",
+		"Kondor, I.R."
+	],
+	"series":	"Lecture Notes in Computer Science",
+	"editor":	"B.Sch\u00F6lkopf and M.Warmuth",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Kernels and Regularization on Graphs",
+	"decade":	 "2003"
+	},
+	{
+	"pdf":	"papers/2005/OngSmoWil05.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"article",
+	"uri":	"urn:711bfe32491dd73ededae85592417383",
+	"pages":	"1045\u20101071",
+	"date":	"2005",
+	"author":	[
+		"Soon-Ong, C.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"volume":	"6",
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Learning the kernel with hyperkernels",
+	"decade":	"2005"
+	},
+	{
+	"pdf":	"papers/2003/MikRatWesSchetal03.pdf",
+	"journal":	"IEEE Transactions on Pattern Analysis and Machine Intelligence",
+	"pub-type":	"article",
+	"uri":	"urn:f7eb544d514cfed920c018c9429a61e4",
+	"pages":	"623\u2010628",
+	"date":	"2003",
+	"number":	"5",
+	"author":	[
+		"Mika, S.",
+		"R\u00E4tsch, G.",
+		"Weston, J.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R."
+	],
+	"volume":	"25",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Learning discriminative and invariant nonlinear features",
+	"decade":	"2003"
+	},
+	{
+	"pdf":	"papers/2002/FunManSmo02.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"article",
+	"uri":	"urn:1554cc9f97f1604bc238c4de96d84851",
+	"pages":	"303\u2010321",
+	"date":	"2002",
+	"author":	[
+		"Fung, G.",
+		"Mangasarian, O.L.",
+		"Smola, A.J."
+	],
+	"volume":	"3",
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Minimal Kernel Classifiers",
+	"decade":	"2002"
+	},
+	{
+	"pdf":	"papers/2008/ShiWanCheSmo08.pdf",
+	"booktitle":	"Computer Vision and Pattern Recognition",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:b66a7fe5a44c3e564bc2ade897352abd",
+	"date":	"2008",
+	"author":	[
+		"Shi, Q.",
+		"Wang, L.",
+		"Cheng, L.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Discriminative Huan Action Segmentation and Recognition using Semi-Markov Model",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://books.nips.cc/papers/files/nips20/NIPS2007_0470.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 20",
+	"pub-type":	"incollection",
+	"uri":	"urn:8594f5d06834ed7e918344e7cef2ada4",
+	"date":	"2008",
+	"author":	[
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N.",
+		"Le, Q.V."
+	],
+	"editor":	"J.C.Platt and D.Koller and Y.Singer and S.Roweis",
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Bundle Methods for Machine Learning",
+	"address":	"Cambridge, MA",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2002/RatSmoMik02.pdf",
+	"booktitle":	"Neural Information Processing Systems",
+	"postscript":	"papers/2002/RatSmoMik02.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:ff160660ac5b6a8b632b0c6a369fbb9f",
+	"date":	"2002",
+	"author":	[
+		"R\u00E4tsch, G.",
+		"Smola, A.J.",
+		"Mika, S."
+	],
+	"volume":	"15",
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Adapting Codes and Embeddings for Polychotomies",
+	"decade":	 "2002"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	"papers/2002/SchSmo02b.pdf",
+	"booktitle":	"The Handbook of Brain Theory and Neural Networks",
+	"pub-type":	"incollection",
+	"uri":	"urn:18214ad2709d8fabb2087761d281ef2e",
+	"pages":	"1119\u20101125",
+	"date":	"2002",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"M.A.Arbib",
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Support Vector Machines and Kernel Algorithms",
+	"decade":	"2002"
+	},
+	{
+	"publisher":	"John Wiley and Sons",
+	"id":	"d95e259193c4a95db171218d6532c0a7",
+	"pdf":	 "papers/2003/SchSmo03b.pdf",
+	"booktitle":	"Encyclopedia of Biostatistics",
+	"postscript":	"papers/2003/SchSmo03b.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:d95e259193c4a95db171218d6532c0a7",
+	"date":	"2003",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"P.Armitage and T.Colton",
+	"type":	"Publication",
+	"year":	"2003",
+	"note":	"in press",
+	"label":	"Support Vector Machines and Kernel Algorithms",
+	"decade":	 "2003"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2006/GaeLeBuretal06.pdf",
+	"booktitle":	"Neural Information Processing Systems",
+	"postscript":	"papers/2006/GaeLeBuretal06.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:c663283e4ad67c12b1a23d80c5b87f50",
+	"pages":	"411\u2010418",
+	"date":	"2006",
+	"author":	[
+		"G\u00E4rtner, T.",
+		"Le, Q.V.",
+		"Burton, S.",
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N."
+	],
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Large-Scale Multiclass Transduction",
+	"decade":	 "2006"
+	},
+	{
+	"id":	 "0782cdd7e62946e15c8abc432e7b2122",
+	"booktitle":	"Artificial Intelligence and Statistics {AISTATS} 2009",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0782cdd7e62946e15c8abc432e7b2122",
+	"date":	"2009-04",
+	"author":	[
+		"Shi, Q.",
+		"Petterson, J.",
+		"Dror, G.",
+		"Langford, J.",
+		"Smola, A.J.",
+		"Strehl, A.",
+		"Vishwanathan, S.V.N."
+	],
+	"month":	"April",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Hash Kernels",
+	"address":	"Florida",
+	"decade":	"2009"
+	},
+	{
+	"pdf":	"papers/2009/McACaeSmo09.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 22",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:b7a507b3f286319b96b866b1f7af2d8d",
+	"date":	"2009",
+	"author":	[
+		"McAuley, J.",
+		"Caetano, T.S.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Robust Near-Isometric Matching via Structured Learning of Graphical Models",
+	"decade":	"2009"
+	},
+	{
+	"pdf":	"papers/2009/QuaSonSmo09.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 22",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:d51f5836f0d206d254df8357361a6bb7",
+	"date":	"2009",
+	"author":	[
+		"Quadrianto, N.",
+		"Song, L.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Kernelized Sorting",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"AAAI Press",
+	"pdf":	"papers/2007/GreBorRasSchSmo07b.pdf",
+	"booktitle":	"Proceedings of the 22nd AAAI Conference on Artificial Intelligence",
+	"pub-type":	"incollection",
+	"uri":	"urn:3a3cf249e045ca868183223cf098bf73",
+	"pages":	"1637\u20101641",
+	"date":	"2007",
+	"author":	[
+		"Gretton, A.",
+		"Borgwardt, K.M.",
+		"Rasch, M.J.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"editor":	"R.Holte and A.Howe",
+	"type":	"Publication",
+	"year":	"2007",
+	"note":	"Nectar track",
+	"label":	"A Kernel Method to Comparing Distributions",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://books.nips.cc/papers/files/nips20/NIPS2007_0612.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 20",
+	"pub-type":	"incollection",
+	"uri":	"urn:282bff75a4eaab7e9ebaf243a7fc3bbf",
+	"date":	"2008",
+	"author":	[
+		"Weimer, M.",
+		"Karatzoglou, A.",
+		"Le, Q.V.Quoc",
+		"Smola, A.J."
+	],
+	"editor":	"J.C.Platt and D.Koller and Y.Singer and S.Roweis",
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"COFI RANK \u2013 Maximum Margin Matrix Factorization for Collaborative Ranking ",
+	"address":	"Cambridge, MA",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?494345",
+	"booktitle":	"WWW 2011: Proceedings of the 20th international conference companion on World wide web",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f6d0512f5e6b26421c1e358dc1c16963",
+	"pages":	"281\u2010282",
+	"date":	"2011",
+	"author":	[
+		"Ahmed, A.",
+		"Smola, A.J."
+	],
+	"doi":	"http://doi.acm.org/10.1145/1963192.1963311",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"WWW 2011 invited tutorial overview: latent variable models on the internet",
+	"location":	"Hyderabad, India",
+	"address":	"New York, NY, USA",
+	"decade":	"2011"
+	},
+	{
+	"pdf":	 "papers/2005/BorOngSchVisetal05.pdf",
+	"booktitle":	"Proc.of Intelligent Systems in Molecular Biology (ISMB)",
+	"postscript":	"papers/2005/BorOngSchVisetal05.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:6c21c39e376600c10ff910b86dff9105",
+	"date":	"2005",
+	"author":	[
+		"Borgwardt, K.M.",
+		"Ong, C.S.",
+		"Sch\u00F6nauer, S.",
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J.",
+		"Kriegel, H.P."
+	],
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Protein Function Prediction via Graph Kernels",
+	"address":	"Detroit, USA",
+	"decade":	 "2005"
+	},
+	{
+	"publisher":	"Teubner, Stuttgart",
+	"id":	"0dc844fe592030828cc3280912371b74",
+	"pdf":	 "papers/1999/Smola99.pdf",
+	"booktitle":	"Ausgezeichnete Informatikdissertationen",
+	"postscript":	"papers/1999/Smola99.ps.gz",
+	"pub-type":	"incollection",
+	"uri":	 "urn:0dc844fe592030828cc3280912371b74",
+	"pages":	"184\u2010195",
+	"date":	"1999",
+	"author":	"Smola, A.J.",
+	"editor":	"G.Hotz et al.",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Lernen mit Kernen",
+	"decade":	 "1999"
+	},
+	{
+	"url":	"http://arxiv.org/abs/math/0701907",
+	"pdf":	"papers/2008/HofSchSmo08.pdf",
+	"journal":	"Annals of Statistics",
+	"pub-type":	"article",
+	"uri":	"urn:f9c11f713427450f854ec3bdc1e81f1e",
+	"pages":	"1171\u20101220",
+	"date":	"2008",
+	"number":	"3",
+	"author":	[
+		"Hofmann, T.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"volume":	"36",
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Kernel methods in machine learning",
+	"decade":	"2008"
+	},
+	{
+	"id":	"afd2ed1557255703840e17a7f5bdf20f",
+	"pdf":	"papers/2010/QuaSmoSonTuy10.pdf",
+	"journal":	"IEEE Trans.on Pattern Analysis and Machine Intelligence (to appear)",
+	"pub-type":	"article",
+	"uri":	"urn:afd2ed1557255703840e17a7f5bdf20f",
+	"date":	"2010",
+	"author":	[
+		"Quadrianto, N.",
+		"Smola, A.J.",
+		"Song, L.",
+		"Tuytelaars, T."
+	],
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Kernelized Sorting",
+	"decade":	"2010"
+	},
+	{
+	"ps":	 "papers/2005/SmoVisHof05.ps.gz",
+	"pdf":	"papers/2005/SmoVisHof05.pdf",
+	"booktitle":	"Artificial Intelligence and Statistics AISTATS 2005",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:5c99360b2c52e5b4987f24090e8954c4",
+	"date":	"2005",
+	"author":	[
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N.",
+		"Hofmann, T."
+	],
+	"editor":	"Z.Ghahramani and R.Cowell",
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Kernel Methods for Missing Variables",
+	"decade":	"2005"
+	},
+	{
+	"url":	"http://icml2008.cs.helsinki.fi/papers/377.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0d4b1a7848d11a9a907584ae9d2b4fae",
+	"date":	"2008",
+	"author":	[
+		"Song, L.",
+		"Zhang, X.",
+		"Smola, A.J.",
+		"Gretton, A.",
+		"Sch\u00F6lkopf, B."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Tailoring Density Estimation via Reproducing Kernel Moment Matching",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/2006/AltSmo06.pdf",
+	"booktitle":	"19th Annual Conference on Computational Learning Theory (COLT)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:c73ad50ffc38fffb2b22e5cca6814956",
+	"pages":	"139\u2010153",
+	"date":	"2006",
+	"author":	[
+		"Altun, Y.",
+		"Smola, A.J."
+	],
+	"series":	"LNCS",
+	"ee":	 "http://dx.doi.org/10.1007/11776420_13",
+	"editor":	"H.U.Simon and G.Lugosi",
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Unifying Divergence Minimization and Statistical Inference via Convex Duality",
+	"decade":	"2006"
+	},
+	{
+	"pdf":	"papers/2007/TeoLeSmoVis07.pdf",
+	"booktitle":	"Knowledge Discovery and Data Mining KDD 2007",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:068a21f7ef9ea31c44018e18e6b2343f",
+	"date":	"2007",
+	"author":	[
+		"Teo, C.H.",
+		"Le, Q.V.",
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N."
+	],
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"A Scalable Modular Convex Solver for Regularized Risk Minimization",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1999/SchBarSmoWil99.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 11",
+	"postscript":	"papers/1999/SchBarSmoWil99.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:d3bbbf15f2f925411fc240f5a571a567",
+	"pages":	"330\u2010336",
+	"date":	"1999",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Bartlett, P.L.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"editor":	"M.S.Kearns and S.A.Solla and D.A.Cohn",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Shrinking the tube: a new support vector regression algorithm",
+	"address":	"Cambridge, MA",
+	"decade":	 "1999"
+	},
+	{
+	"ps":	 "papers/2003/VisSmo04.ps.gz",
+	"publisher":	"MIT Press",
+	"pdf":	"papers/2003/VisSmo04.pdf",
+	"booktitle":	"Kernels and Bioinformatics",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:ccf896242807b1b7f499b6fa99e9888f",
+	"date":	"2003",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J."
+	],
+	"editor":	"K.Tsuda and B.Sch\u00F6lkopf and J.P.Vert",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Fast Kernels for String and Tree Matching",
+	"address":	"Cambridge, MA",
+	"decade":	"2003"
+	},
+	{
+	"pdf":	"papers/2009/ZinSmoLan09.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 22",
+	"pub-type":	"incollection",
+	"uri":	"urn:3608ed1ae64f1e8f26f0d822fdf6b5f4",
+	"pages":	"2331\u20102339",
+	"date":	"2009",
+	"author":	[
+		"Zinkevich, M.",
+		"Smola, A.J.",
+		"Langford, J."
+	],
+	"editor":	"Y.Bengio and D.Schuurmans and J.Lafferty and C.K.I.Williams and A.Culotta",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Slow Learners are Fast",
+	"decade":	"2009"
+	},
+	{
+	"pdf":	"papers/2010/CheWelSmo10.pdf",
+	"booktitle":	"Uncertainty in Artificial Intelligence (UAI)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:2419adb8ccab32d659d1522f8d85261b",
+	"date":	"2010",
+	"author":	[
+		"Chen, Y.",
+		"Welling, M.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Supersamples from Kernel-Herding",
+	"decade":	"2010"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?405360",
+	"booktitle":	"WWW 2011: Proceedings of the 20th international conference on World wide web",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:2d7eb42705dd22a194a50607971e277f",
+	"pages":	"537\u2010546",
+	"date":	"2011",
+	"author":	[
+		"Yang, S.H.",
+		"Long, B.",
+		"Smola, A.J.",
+		"Sadagopan, N.",
+		"Zheng, Z.",
+		"Zha, H."
+	],
+	"doi":	"http://doi.acm.org/10.1145/1963405.1963481",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Like like alike: joint friendship and interest propagation in social networks",
+	"location":	"Hyderabad, India",
+	"address":	"New York, NY, USA",
+	"decade":	"2011"
+	},
+	{
+	"ps":	 "papers/2004/VisSmo04b.ps.gz",
+	"pdf":	"papers/2004/VisSmo04b.pdf",
+	"booktitle":	"Proceedings of Neural Information Processing Systems NIPS 2004",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:bcf74f9dd29f7586b057b509028852ee",
+	"date":	"2004",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J."
+	],
+	"year":	"2004",
+	"type":	"Publication",
+	"label":	"Binet-Cauchy Kernels",
+	"decade":	"2004"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	"papers/2003/SmoVisEsk03.pdf",
+	"booktitle":	"Neural Information Processing Systems",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:4dc365bd408a2449ac3043d7b6428268",
+	"date":	"2003",
+	"author":	[
+		"Eskin, E.",
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N."
+	],
+	"series":	"16",
+	"type":	"Publication",
+	"year":	"2003",
+	"note":	"forthcoming",
+	"label":	"Laplace Propagation",
+	"decade":	"2003"
+	},
+	{
+	"pdf":	 "papers/2006/VisSchSmo06.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"pub-type":	"article",
+	"b2hproject":	"angie",
+	"uri":	 "urn:e2364d8dd004420a09271c7dc8b9935e",
+	"pages":	"1107\u20101133",
+	"date":	"2006-06",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Schraudolph, N.N.",
+		"Smola, A.J."
+	],
+	"volume":	"7",
+	"month":	"June",
+	"type":	"Publication",
+	"year":	"2006",
+	"abstract":	"This paper presents an online Support Vector Machine (SVM) that uses the Stochastic Meta-Descent (SMD) algorithm to adapt its step size automatically. We formulate the online learning problem as a stochastic gradient descent in Reproducing Kernel Hilbert Space (RKHS) and translate SMD to the nonparametric setting, where its gradient trace parameter is no longer a coefficient vector but an element of the RKHS. We derive efficient updates that allow us to perform the step size adaptation in linear time. We apply the online SVM framework to a variety of loss functions, and in particular show how to handle structured output spaces and achieve efficient online multiclass classification.Experiments show that our algorithm outperforms more primitive methods for setting the gradient step size.",
+	"label":	"Step Size Adaptation in Reproducing Kernel Hilbert Space",
+	"decade":	 "2006"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/1999/SmoWilMikSch99.pdf",
+	"booktitle":	"Computational Learning Theory: 4th European Conference",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f6e1f33cd6fbd3a03d7c3bc2e5caf3d6",
+	"pages":	"214\u2010229",
+	"date":	"1999",
+	"author":	[
+		"Smola, A.J.",
+		"Williamson, R.C.",
+		"Mika, S.",
+		"Sch\u00F6lkopf, B."
+	],
+	"series":	"Lecture Notes in Artificial Intelligence",
+	"volume":	"1572",
+	"editors":	"P.Fischer and H.U.Simon",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Regularized principal manifolds",
+	"decade":	"1999"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2001/SmoBar01.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 13",
+	"postscript":	"papers/2001/SmoBar01.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:faac653943bd0918d9e9549fd9e12aee",
+	"pages":	"619\u2010625",
+	"date":	"2001",
+	"author":	[
+		"Smola, A.J.",
+		"Bartlett, P.L."
+	],
+	"editor":	"T.K.Leen and T.G.Dietterich and V.Tresp",
+	"type":	"Publication",
+	"year":	"2001",
+	"label":	"Sparse Greedy Gaussian Process Regression",
+	"decade":	 "2001"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/RatSchSmoMiketal00.pdf",
+	"booktitle":	"Advances in Large Margin Classifiers",
+	"postscript":	"papers/2000/RatSchSmoMiketal00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:ec4485fd5465a2f7f3ab0b9f6911f845",
+	"pages":	"207\u2010220",
+	"date":	"2000",
+	"author":	[
+		"R\u00E4tsch, G.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"Mika, S.",
+		"Onoda, T.",
+		"M\u00FCller, K.-R."
+	],
+	"editor":	"A.J.Smola and P.L.Bartlett and B.Sch\u00F6lkopf and D.Schuurmans",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Robust ensemble learning",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"url":	"http://www.auai.org/uai2012/papers/231.pdf",
+	"booktitle":	"Uncertainty in Artificial Intelligence",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f345a1bf885e98287d9bc94e36498b4a",
+	"date":	"2012",
+	"author":	[
+		"Matusevych, S.",
+		"Smola, A.J.",
+		"Ahmed, A."
+	],
+	"editor":	"K.Murphy and N.de Freitas",
+	"year":	"2012",
+	"type":	"Publication",
+	"label":	"Hokusai \u2013 Sketching Streams in Real Time",
+	"decade":	"2012"
+	},
+	{
+	"pdf":	"papers/2009/ThoCheGreetal09.pdf",
+	"booktitle":	"SIAM International Conference on Data Mining (SDM)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:cab01c80ff014801767040fe92a6f5a0",
+	"date":	"2009",
+	"author":	[
+		"Thoma, M.",
+		"Cheng, H.",
+		"Gretton, A.",
+		"Han, J.",
+		"Kriegel, H.P.",
+		"Smola, A.J.",
+		"Song, L.",
+		"Yu, P.",
+		"Yan, X.",
+		"Borgwardt, K.M."
+	],
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Near-optimal supervised feature selection among frequent subgraphs",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"Springer",
+	"url":	"http://www.springerlink.com/openurl.asp?genre=issue&issn=0302-9743&volume=2600&issue=preprint",
+	"pub-type":	"book",
+	"uri":	"urn:eb0fe48eb541b6c539cfc050f69b1ebc",
+	"date":	"2003",
+	"series":	"Lecture Notes in Computer Science",
+	"volume":	"2600",
+	"editor":	"S.Mendelson and A.J.Smola",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Machine Learning, Proceedings of the Summer School 2002, Australian National University",
+	"decade":	"2003"
+	},
+	{
+	"url":	"http://books.nips.cc/papers/files/nips23/NIPS2010_0853.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 23",
+	"pub-type":	"incollection",
+	"uri":	"urn:18c984d0f29f6ee0a7658ce0d90f72fa",
+	"pages":	"1957\u20101965",
+	"date":	"2010",
+	"author":	[
+		"Quadrianto, N.",
+		"Smola, A.J.",
+		"Caetano, T.S.",
+		"Vishwanathan, S.V.N.",
+		"Petterson, J."
+	],
+	"editor":	"J.Lafferty and C.K.I.Williams and J.Shawe-Taylor and R.S.Zemel and A.Culotta",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Multitask Learning without Label Correspondences",
+	"decade":	"2010"
+	},
+	{
+	"pdf":	 "papers/2000/CamCriSmo00.pdf",
+	"booktitle":	"Proceedings of the International Conference on Machine Learning",
+	"postscript":	"papers/2000/CamCriSmo00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:515e36c0a44e4f0230c3f9f5f8c3260a",
+	"date":	"2000",
+	"author":	[
+		"Campbell, C.",
+		"Cristianini, N.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Query Learning with Large Margin Classifiers",
+	"decade":	 "2000"
+	},
+	{
+	"url":	"http://dl.acm.org/authorize?464999",
+	"pdf":	"papers/2011/Broderetal11.pdf",
+	"booktitle":	"Proceedings of the 4th {ACM} International Conference on Web Search and Data Mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:2cd22c43d5cbfa7537502d79e9659683",
+	"date":	"2011-02",
+	"author":	[
+		"Broder, A.",
+		"Gabrilovich, E.",
+		"Josifovski, V.",
+		"Mavromatis, G.",
+		"Smola, A.J."
+	],
+	"month":	"February",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Bid Generation for Advanced Match in Sponsored Search",
+	"decade":	"2011"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1997/VapGolSmo97.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 9",
+	"postscript":	"papers/1997/VapGolSmo97.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:3eff45e3e49aaf489c36a785afdc0049",
+	"pages":	"281\u2010287",
+	"date":	"1997",
+	"author":	[
+		"Vapnik, V.",
+		"Golowich, S.",
+		"Smola, A.J."
+	],
+	"editor":	"M.C.Mozer and M.I.Jordan and T.Petsche",
+	"type":	"Publication",
+	"year":	"1997",
+	"label":	"Support vector method for function approximation, regression estimation, and signal processing",
+	"address":	"Cambridge, MA",
+	"decade":	 "1997"
+	},
+	{
+	"url":	"http://www.aclweb.org/anthology/D/D07/D07-1067",
+	"pdf":	"papers/2007/ShiAltSmoVis07.pdf",
+	"booktitle":	"Proceedings of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning (EMNLP-CoNLL)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:94663ff2788521cbb3b712e3b62ad9d6",
+	"pages":	"640\u2010648",
+	"date":	"2007",
+	"author":	[
+		"Shi, Q.",
+		"Altun, Y.",
+		"Smola, A.J.",
+		"Vishwanathan, S.V.N."
+	],
+	"type":	"Publication",
+	"year":	"2007",
+	"label":	"Semi-Markov Models for Sequence Segmentation",
+	"decade":	"2007"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	 "papers/1998/SmoMurSchMul98.pdf",
+	"booktitle":	"Proceedings of the International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1998/SmoMurSchMul98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:9c99efcc39498726f8583cac3dd96442",
+	"pages":	"105\u2010110",
+	"date":	"1998",
+	"author":	[
+		"Smola, A.J.",
+		"Murata, N.",
+		"Sch\u00F6lkopf, B.",
+		"M\u00FCller, K.-R."
+	],
+	"series":	"Perspectives in Neural Computing",
+	"editor":	"L.Niklasson and M.Boden and T.Ziemke",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Asymptotically Optimal Choice of \u03B5-Loss for Support Vector Machines",
+	"address":	"Berlin",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1997/DruBurKauSmoetal97.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 9",
+	"postscript":	"papers/1997/DruBurKauSmoetal97.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:342a7ca8cfbf4e110d4f1c28db6915ee",
+	"pages":	"155\u2010161",
+	"date":	"1997",
+	"author":	[
+		"Drucker, H.",
+		"Burges, C.J.C.",
+		"Kaufman, L.",
+		"Smola, A.J.",
+		"Vapnik, V."
+	],
+	"editor":	"M.C.Mozer and M.I.Jordan and T.Petsche",
+	"type":	"Publication",
+	"year":	"1997",
+	"label":	"Support vector regression machines",
+	"address":	"Cambridge, MA",
+	"decade":	 "1997"
+	},
+	{
+	"organization":	"GBF",
+	"booktitle":	"Proceedings of the German Conference on Bioinformatics 1999",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:44335ce4929a32fe5b8d2d5e009f9088",
+	"pages":	 "37\u201043",
+	"date":	"1999-10",
+	"author":	[
+		"Zien, A.",
+		"R\u00E4tsch, G.",
+		"Mika, S.",
+		"Sch\u00F6lkopf, B.",
+		"Lemmen, C.",
+		"Smola, A.J.",
+		"Lengauer, T.",
+		"M\u00FCller, K.-R."
+	],
+	"month":	 "October",
+	"type":	"Publication",
+	"year":	"1999",
+	"internet":	"http://www.bioinfo.de/isb/gcb99/talks/",
+	"label":	 "Engineering Support Vector Machine Kernels That Recognize Translation Initiation Sites",
+	"address":	"Hannover, Germany",
+	"decade":	"1999"
+	},
+	{
+	"pdf":	 "papers/2005/GreHerSmoBouSch05.pdf",
+	"journal":	"Journal of Machine Learning Research",
+	"postscript":	"papers/2005/GreHerSmoBouSch05.ps.gz",
+	"pub-type":	"article",
+	"uri":	 "urn:99be06dc80b506f632d6c8d582e17f1d",
+	"pages":	"1\u201047",
+	"date":	"2005",
+	"author":	[
+		"Gretton, A.",
+		"Herbrich, R.",
+		"Smola, A.J.",
+		"Bousquet, O.",
+		"Sch\u00F6lkopf, B."
+	],
+	"volume":	"6",
+	"type":	"Publication",
+	"year":	"2005",
+	"label":	"Kernel Methods for Measuring Independence",
+	"decade":	 "2005"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/2002/KivSmoWil02.pdf",
+	"booktitle":	"Algorithmic Learning Theory, 13th International Conference, ALT 2002, L\u00FCbeck, Germany",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:3b00717a6f03af5b6a771465c93f15f6",
+	"pages":	"113\u2010127",
+	"date":	"2002",
+	"author":	[
+		"Kivinen, J.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"series":	"Lecture Notes in Artificial Intelligence",
+	"volume":	"2533",
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Large Margin Classification for Moving Targets",
+	"decade":	"2002"
+	},
+	{
+	"publisher":	"Springer Lecture Notes in Computer Science, Vol.1327",
+	"id":	"e27ffa9cefd8aa57d2773a73329c9eb4",
+	"pdf":	 "papers/1997/MulSmoRatSchetal97.pdf",
+	"booktitle":	"Artificial Neural Networks ICANN 1997",
+	"postscript":	"papers/1997/MulSmoRatSchetal97.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:e27ffa9cefd8aa57d2773a73329c9eb4",
+	"pages":	"999\u20101004",
+	"date":	"1997",
+	"author":	[
+		"M\u00FCller, K.-R.",
+		"Smola, A.J.",
+		"R\u00E4tsch, G.",
+		"Sch\u00F6lkopf, B.",
+		"Kohlmorgen, J.",
+		"Vapnik, V."
+	],
+	"editor":	"W.Gerstner and A.Germond and M.Hasler and J.-D.Nicoud",
+	"type":	"Publication",
+	"year":	"1997",
+	"label":	"Predicting Time Series with Support Vector Machines",
+	"address":	"Berlin",
+	"decade":	 "1997"
+	},
+	{
+	"pdf":	 "papers/2002/KowSmoWil02.pdf",
+	"booktitle":	"Neural Information Processing Systems",
+	"postscript":	"papers/2002/KowSmoWil02.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:60275eeafe4d98e5c39ff7983210de23",
+	"date":	"2002",
+	"author":	[
+		"Kowalczyk, A.",
+		"Smola, A.J.",
+		"Williamson, R.C."
+	],
+	"type":	"Publication",
+	"year":	"2002",
+	"label":	"Kernel Machines and Boolean Functions",
+	"decade":	 "2002"
+	},
+	{
+	"pdf":	"papers/2001/SchHerSmo01.pdf",
+	"booktitle":	"Proceedings of the Annual Conference on Computational Learning Theory",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:bba3b41c6133b871cf223542069e9368",
+	"pages":	"416\u2010426",
+	"date":	"2001",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Herbrich, R.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2001",
+	"label":	"A Generalized Representer Theorem",
+	"decade":	"2001"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/2000/SmoShaSchWil00.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 12",
+	"postscript":	"papers/2000/SmoShaSchWil00.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:037a4e5831f0cf76e0de49f4072b36af",
+	"pages":	"342\u2010348",
+	"date":	"2000",
+	"author":	[
+		"Smola, A.J.",
+		"Shawe-Taylor, J.",
+		"Sch\u00F6lkopf, B.",
+		"Williamson, R.C."
+	],
+	"editor":	"S.A.Solla and T.K.Leen and K.-R.M\u00FCller",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"The Entropy Regularization Information Criterion",
+	"address":	"Cambridge, MA",
+	"decade":	 "2000"
+	},
+	{
+	"pdf":	"papers/2009/Weinbergeretal09.pdf",
+	"booktitle":	"International Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0ffeb3250694c93d697f438cf5a0e4a9",
+	"date":	"2009",
+	"author":	[
+		"Weinberger, K.Q.",
+		"Dasgupta, A.",
+		"Attenberg, J.",
+		"Langford, J.",
+		"Smola, A.J."
+	],
+	"year":	"2009",
+	"note":	"The canonical distortion bound in the paper is wrong (I goofed up).Thanks to Tamas Sarlos for finding the bug.",
+	"type":	"Publication",
+	"label":	"Feature Hashing for Large Scale Multitask Learning",
+	"decade":	"2009"
+	},
+	{
+	"publisher":	"Springer",
+	"booktitle":	"Proceedings of the Fourth Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:51880dcc2969b86a82ee88f1e51b0799",
+	"pages":	"341\u2010344",
+	"date":	"2000",
+	"author":	[
+		"R\u00E4tsch, G.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"Mika, S.",
+		"Onoda, T.",
+		"M\u00FCller, K.-R."
+	],
+	"series":	"LNCS 1805",
+	"type":	"Publication",
+	"year":	"2000",
+	"label":	"Robust Ensemble Learning for Data Mining",
+	"decade":	"2000"
+	},
+	{
+	"pdf":	"papers/2006/Boretal06.pdf",
+	"booktitle":	"Proc.of Intelligent Systems in Molecular Biology (ISMB)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:243d3694d008ff7e159a89c086174f41",
+	"pages":	"e49\u2010e57",
+	"date":	"2006",
+	"author":	[
+		"Borgwardt, K.M.",
+		"Gretton, A.",
+		"Rasch, M.J.",
+		"Kriegel, H.P.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"ee":	 "http://dx.doi.org/doi:10.1093/bioinformatics/btl242",
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Integrating structured biological data by Kernel Maximum Mean Discrepancy",
+	"address":	"Fortaleza, Brazil",
+	"decade":	"2006"
+	},
+	{
+	"publisher":	"MIT Press",
+	"id":	 "a26c6fb9adc24904066d5fa77f3c43e2",
+	"pdf":	"papers/1999/WilSmoSch99.pdf",
+	"booktitle":	"Advances in Kernel Methods \u2013 Support Vector Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:a26c6fb9adc24904066d5fa77f3c43e2",
+	"pages":	"127\u2010144",
+	"date":	"1999",
+	"author":	[
+		"Williamson, R.C.",
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"B.Sch\u00F6lkopf and C.J.C.Burges and A.J.Smola",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Entropy numbers, operators and support vector kernels",
+	"address":	"Cambridge, MA",
+	"decade":	"1999"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://books.nips.cc/papers/files/nips20/NIPS2007_0492.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 20",
+	"pub-type":	"incollection",
+	"uri":	"urn:406db5563f1740fe56a21347b0e16b85",
+	"date":	"2008",
+	"author":	[
+		"Song, L.",
+		"Smola, A.J.",
+		"Borgwardt, K.M.",
+		"Gretton, A."
+	],
+	"editor":	"J.C.Platt and D.Koller and Y.Singer and S.Roweis",
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Colored Maximum Variance Unfolding",
+	"address":	"Cambridge, MA",
+	"decade":	"2008"
+	},
+	{
+	"pdf":	"papers/2004/OngMarCanSmo04.pdf",
+	"booktitle":	"International Conference on Machine Learning ICML",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:dcb51bb30ffdbc8832c66a26d6f1c5da",
+	"date":	"2004",
+	"author":	[
+		"Soon-Ong, C.",
+		"Mary, X.",
+		"Canu, S.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2004",
+	"label":	"Learning with Non-Positive Kernels",
+	"decade":	"2004"
+	},
+	{
+	"pdf":	"papers/2010/SmoNar10.pdf",
+	"booktitle":	"Very Large Databases (VLDB)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:70d76af02be195ac6961361539f72041",
+	"date":	"2010",
+	"author":	[
+		"Smola, A.J.",
+		"Narayanamurthy, S."
+	],
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"An Architecture for Parallel Topic Models",
+	"decade":	"2010"
+	},
+	{
+	"publisher":	"Springer Lecture Notes in Computer Science, Vol.1327",
+	"pdf":	 "papers/1997/SchSmoMul97.pdf",
+	"booktitle":	"Artificial Neural Networks ICANN 1997",
+	"postscript":	"papers/1997/SchSmoMul97.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:4e7157823e078f7e192a1bd94efdd3fd",
+	"pages":	"583\u2010588",
+	"date":	"1997",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R."
+	],
+	"editor":	"W.Gerstner and A.Germond and M.Hasler and J.-D.Nicoud",
+	"type":	"Publication",
+	"year":	"1997",
+	"label":	"Kernel principal component analysis",
+	"address":	"Berlin",
+	"decade":	 "1997"
+	},
+	{
+	"url":	"http://www.cis.hut.fi/MLG08/papers/session1/paper9.pdf",
+	"booktitle":	"Workshop on Mining and Learning with Graphs",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:0356abfb11aca4832249d101f96d3deb",
+	"date":	"2008",
+	"author":	[
+		"Borgwardt, K.M.",
+		"Yan, X.",
+		"Thoma, M.",
+		"Cheng, H.",
+		"Gretton, A.",
+		"Song, L.",
+		"Smola, A.J.",
+		"Han, J.",
+		"Yu, P.",
+		"Kriegel, H.P."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Combining near-optimal feature selection with gSpan",
+	"decade":	"2008"
+	},
+	{
+	"pdf":	"papers/2003/GraSmoBor03.pdf",
+	"journal":	"IEEE Transactions on Neural Networks",
+	"pub-type":	"article",
+	"uri":	"urn:645c5eb3cd74bc61ef3047bb56536f09",
+	"pages":	"597\u2010605",
+	"date":	"2003",
+	"number":	"3",
+	"author":	[
+		"Graf, A.B.",
+		"Smola, A.J.",
+		"Borer, S."
+	],
+	"volume":	"14",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Classification in a Normalized Feature Space using Support Vector Machines",
+	"decade":	"2003"
+	},
+	{
+	"publisher":	"ACM",
+	"url":	"http://dl.acm.org/authorize?6666313",
+	"booktitle":	"WSDM 2012: Proceedings of the fifth ACM international conference on Web search and data mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:13b60fbeeb98dc6f0f44ffb4ea146d91",
+	"pages":	"333\u2010342",
+	"date":	"2012",
+	"author":	[
+		"Ahmed, A.",
+		"Teo, C.H.",
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J."
+	],
+	"doi":	"http://doi.acm.org/10.1145/2124295.2124337",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"Fair and balanced: learning to present news stories",
+	"location":	"Seattle, Washington, USA",
+	"address":	"New York, NY, USA",
+	"decade":	"2012"
+	},
+	{
+	"url":	"http://www.sciencedirect.com/science/article/B7MF1-4Y5GY5J-1/2/f3e2c6a8fe3ea29aed242519b94a1071",
+	"pdf":	"papers/2010/Thomasetal10.pdf",
+	"journal":	"Pervasive and Mobile Computing",
+	"pub-type":	"article",
+	"uri":	"urn:9fc179a37b42bd7926e0910349cf00d0",
+	"pages":	"342\u2010350",
+	"date":	"2010",
+	"number":	"3",
+	"author":	[
+		"Thomas, O.",
+		"Sunehag, P.",
+		"Dror, G.",
+		"Yun, S.",
+		"Kim, S.",
+		"Robards, M.",
+		"Smola, A.J.",
+		"Green, D.",
+		"Saunders, P."
+	],
+	"volume":	"6",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Wearable sensor activity analysis using semi-Markov models with a grammar",
+	"decade":	"2010"
+	},
+	{
+	"url":	"http://books.nips.cc/papers/files/nips23/NIPS2010_0638.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 23",
+	"pub-type":	"incollection",
+	"uri":	"urn:1f171ca096ae72620a5b3e5fbd59fb66",
+	"pages":	"1333\u20101341",
+	"date":	"2010",
+	"author":	[
+		"Leung, G.",
+		"Quadrianto, N.",
+		"Smola, A.J.",
+		"Tsioutsiouliklis, K."
+	],
+	"editor":	"J.Lafferty and C.K.I.Williams and J.Shawe-Taylor and R.S.Zemel and A.Culotta",
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Optimal Web-Scale Tiering as a Flow Problem",
+	"decade":	"2010"
+	},
+	{
+	"url":	"http://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf",
+	"journal":	"JMLR",
+	"pub-type":	"article",
+	"uri":	"urn:4be84f184ebcb51b9752f4ccd12f970e",
+	"pages":	"723\u2010773",
+	"date":	"2012",
+	"author":	[
+		"Gretton, A.",
+		"Borgwardt, K.M.",
+		"Rasch, M.J.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J."
+	],
+	"volume":	"13",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"A Kernel Two-Sample Test",
+	"decade":	"2012"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1999/MikSchSmoMuletal99.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 11",
+	"postscript":	"papers/1999/MikSchSmoMuletal99.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:112e4131d7e1970bf607d3ab127acc36",
+	"pages":	"536\u2010542",
+	"date":	"1999",
+	"author":	[
+		"Mika, S.",
+		"Sch\u00F6lkopf, B.",
+		"Smola, A.J.",
+		"M\u00FCller, K.-R.",
+		"Scholz, M.",
+		"R\u00E4tsch, G."
+	],
+	"editor":	"M.S.Kearns and S.A.Solla and D.A.Cohn",
+	"type":	"Publication",
+	"year":	"1999",
+	"label":	"Kernel PCA and De-noising in feature spaces",
+	"address":	"Cambridge, MA",
+	"decade":	 "1999"
+	},
+	{
+	"pdf":	"papers/2004/LooCanVisetal04.pdf",
+	"booktitle":	"Conference d'Apprentissage",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:13a2b331007287178399e14732ba9f50",
+	"pages":	"113\u2010128",
+	"date":	"2004",
+	"author":	[
+		"Loosli, G.",
+		"Canu, S.",
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J.",
+		"Chattopadhy, M."
+	],
+	"type":	"Publication",
+	"year":	"2004",
+	"label":	"Une boite a outils rapide et simple pour les SVM",
+	"decade":	"2004"
+	},
+	{
+	"id":	"29624ef29cb5fa25f10b53318e759aaf",
+	"pdf":	"papers/2009/Caetanoetal09.pdf",
+	"journal":	"IEEE Trans.Pattern Analysis and Machine Intelligence",
+	"pub-type":	"article",
+	"uri":	"urn:29624ef29cb5fa25f10b53318e759aaf",
+	"pages":	"1048\u20101058",
+	"date":	"2009-06",
+	"number":	"6",
+	"author":	[
+		"Caetano, T.S.",
+		"McAuley, J.",
+		"Cheng, L.",
+		"Le, Q.V.",
+		"Smola, A.J."
+	],
+	"volume":	"31",
+	"month":	"June",
+	"type":	"Publication",
+	"year":	"2009",
+	"label":	"Learning Graph Matching",
+	"decade":	"2009"
+	},
+	{
+	"url":	"http://dl.acm.org/authorize?464915",
+	"pdf":	"papers/2011/Vadrevuetal11.pdf",
+	"booktitle":	"Proceedings of the 4th {ACM} International Conference on Web Search and Data Mining",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:dc8b259aeb30ae4675232892015de67b",
+	"date":	"2011-02",
+	"author":	[
+		"Vadrevu, S.",
+		"Teo, C.H.",
+		"Rajan, S.",
+		"Punera, K.",
+		"Dom, B.",
+		"Smola, A.J.",
+		"Chang, Y.",
+		"Zheng, Z."
+	],
+	"month":	"February",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Scalable Clustering of News Search Results",
+	"decade":	"2011"
+	},
+	{
+	"pdf":	"papers/2008/WeiKarSmo08.pdf",
+	"booktitle":	"European Conference on Machine Learning",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:cd5ae0eaceee9e88344b28dd41385880",
+	"date":	"2008",
+	"author":	[
+		"Weimer, M.",
+		"Karatzoglou, A.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2008",
+	"label":	"Improving Maximum Margin Matrix Factorization",
+	"decade":	"2008"
+	},
+	{
+	"publisher":	"MIT Press",
+	"url":	"http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=11332",
+	"pub-type":	"book",
+	"uri":	"urn:30b7b51c2a86a6ac88ed9504ba7a5cd9",
+	"date":	"2006",
+	"editor":	"G.Bakir and T.Hofmann and B.Sch\u00F6lkopf and A.J.Smola and B.Taskar and S.V.N.Vishwanathan",
+	"type":	"Publication",
+	"year":	"2006",
+	"label":	"Predicting Structured Data",
+	"address":	"Cambridge, MA",
+	"decade":	"2006"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	 "papers/1998/SchMikSmoRatetal98.pdf",
+	"booktitle":	"Proceedings of the International Conference on Artificial Neural Networks",
+	"postscript":	"papers/1998/SchMikSmoRatetal98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:7528a114f3ee1d9070469be84d514000",
+	"pages":	"147\u2010152",
+	"date":	"1998",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Mika, S.",
+		"Smola, A.J.",
+		"R\u00E4tsch, G.",
+		"M\u00FCller, K.-R."
+	],
+	"series":	"Perspectives in Neural Computing",
+	"editor":	"L.Niklasson and M.Boden and T.Ziemke",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Kernel PCA Pattern Reconstruction via Approximate Pre-Images",
+	"address":	"Berlin",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/2007/SmoGreSonSch07.pdf",
+	"booktitle":	"Algorithmic Learning Theory",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:9b2d534ccdaaa3289882056d56635b86",
+	"date":	"2007",
+	"author":	[
+		"Smola, A.J.",
+		"Gretton, A.",
+		"Song, L.",
+		"Sch\u00F6lkopf, B."
+	],
+	"series":	"Lecture Notes on Computer Science",
+	"editor":	"E. Takimoto",
+	"type":	"Publication",
+	"year":	"2007",
+	"note":	"Invited paper",
+	"label":	"A Hilbert Space Embedding for Distributions",
+	"decade":	"2007"
+	},
+	{
+	"pdf":	"papers/2007/SonBedBorGreSmo07.pdf",
+	"booktitle":	"Bioinformatics (ISMB)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:f578926e8ec49893aced8ce28b4450c6",
+	"date":	"2007",
+	"author":	[
+		"Song, L.",
+		"Bedo, J.",
+		"Borgwardt, K.M.",
+		"Gretton, A.",
+		"Smola, A.J."
+	],
+	"year":	"2007",
+	"note":	"To appear",
+	"type":	"Publication",
+	"label":	"Gene Selection via the BAHSIC Family of Algorithms",
+	"decade":	"2007"
+	},
+	{
+	"url":	"http://icml.cc/2012/papers/853.pdf",
+	"journal":	"CoRR",
+	"pub-type":	"article",
+	"uri":	"urn:46411d29eb262c0a726e564625c2bc98",
+	"date":	"2012",
+	"author":	[
+		"Freitas, N.de",
+		"Smola, A.J.",
+		"Zoghi, M."
+	],
+	"volume":	"abs/1203.2177",
+	"type":	"Publication",
+	"year":	"2012",
+	"label":	"Regret Bounds for Deterministic Gaussian Process Bandits",
+	"decade":	"2012",
+	"bibdate":	"2012-04-16"
+	},
+	{
+	"publisher":	"MIT Press",
+	"pdf":	 "papers/1998/SchSimSmoVap98.pdf",
+	"booktitle":	"Advances in Neural Information Processing Systems 10",
+	"postscript":	"papers/1998/SchSimSmoVap98.ps.gz",
+	"pub-type":	"inproceedings",
+	"uri":	 "urn:4838e9f7a2b0e07ebe25d008b1259282",
+	"pages":	"640\u2010646",
+	"date":	"1998",
+	"author":	[
+		"Sch\u00F6lkopf, B.",
+		"Simard, P.",
+		"Smola, A.J.",
+		"Vapnik, V."
+	],
+	"editor":	"M.I.Jordan and M.J.Kearns and S.A.Solla",
+	"type":	"Publication",
+	"year":	"1998",
+	"label":	"Prior knowledge in support vector kernels",
+	"address":	"Cambridge, MA",
+	"decade":	 "1998"
+	},
+	{
+	"publisher":	"Springer",
+	"pdf":	"papers/2003/SmoSch03.pdf",
+	"booktitle":	"Machine Learning, Proceedings of the Summer School, Australian National University",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:9d5271f4ec01e910005ad6eb0b8f977f",
+	"pages":	"65\u2010117",
+	"date":	"2003",
+	"author":	[
+		"Smola, A.J.",
+		"Sch\u00F6lkopf, B."
+	],
+	"editor":	"S.Mendelson and A.J.Smola",
+	"type":	"Publication",
+	"year":	"2003",
+	"label":	"Bayesian Kernel Methods",
+	"decade":	"2003"
+	},
+	{
+	"url":	"http://www.jmlr.org",
+	"id":	"124f6fffa4e31d74b4a19bd977d9bef4",
+	"pdf":	"papers/2001/SmoMikSchWil01.pdf",
+	"journal":	"Journal of Machine Learning",
+	"pub-type":	"article",
+	"uri":	"urn:124f6fffa4e31d74b4a19bd977d9bef4",
+	"pages":	"179\u2010209",
+	"date":	"2001",
+	"author":	[
+		"Smola, A.J.",
+		"Mika, S.",
+		"Sch\u00F6lkopf, B.",
+		"Williamson, R.C."
+	],
+	"volume":	"1",
+	"type":	"Publication",
+	"year":	"2001",
+	"label":	"Regularized principal manifolds",
+	"decade":	"2001"
+	},
+	{
+	"pdf":	"papers/2006/VisSmoVid06.pdf",
+	"journal":	"International Journal of Computer Vision",
+	"pub-type":	"article",
+	"uri":	"urn:1929d9122334c39853ee522eb514ef2e",
+	"date":	"2006",
+	"author":	[
+		"Vishwanathan, S.V.N.",
+		"Smola, A.J.",
+		"Vidal, R."
+	],
+	"type":	"Publication",
+	"note":	"forthcoming",
+	"year":	"2006",
+	"label":	"Binet-Cauchy Kernels on Dynamical Systems and its Application to the Analysis of Dynamic Scenes",
+	"decade":	"2006"
+	},
+	{
+	"pdf":	"papers/2010/Songetal10.pdf",
+	"booktitle":	"International Conference on Machine Learning (ICML)",
+	"pub-type":	"inproceedings",
+	"uri":	"urn:74a106df65ed3feaa35c3f111f6bc201",
+	"date":	"2010",
+	"author":	[
+		"Song, L.",
+		"Boots, B.",
+		"Siddiqi, S.",
+		"Gordon, G.",
+		"Smola, A.J."
+	],
+	"type":	"Publication",
+	"year":	"2010",
+	"label":	"Hilbert Space Embeddings of Hilbert Markov Models",
+	"decade":	"2010"
+	},
+	{
+	"publisher":	"Kluwer Academic Publishers",
+	"url":	"http://dx.doi.org/10.1007/s10994-011-5261-8",
+	"journal":	"Mach.Learn.",
+	"pub-type":	"article",
+	"uri":	"urn:161bd1a4ba2c767693d2c8cd0c0f1fa3",
+	"pages":	"1\u20102",
+	"date":	"2011",
+	"number":	"1-2",
+	"author":	[
+		"Ozgur, S.",
+		"Devrim, U.",
+		"Smola, A.J."
+	],
+	"volume":	"85",
+	"type":	"Publication",
+	"year":	"2011",
+	"label":	"Guest editorial: model selection and optimization in machine learning",
+	"issn":	"0885-6125",
+	"address":	"Hingham, MA, USA",
+	"decade":	"2011"
+	}
+	]
+}

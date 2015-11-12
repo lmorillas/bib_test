@@ -1,0 +1,1126 @@
+{
+	"items":	[
+	{
+		"label":	"Golowich, S.",
+		"type":	"Author",
+		"original-name":	"S. Golowich",
+		"last-name":	"Golowich"
+	},
+	{
+		"label":	"Kriegel, H.P.",
+		"type":	"Author",
+		"original-name":	"H.P. Kriegel",
+		"last-name":	"Kriegel"
+	},
+	{
+		"label":	"Hong, L.",
+		"type":	"Author",
+		"original-name":	"L. Hong",
+		"last-name":	"Hong"
+	},
+	{
+		"label":	"Zinkevich, M.",
+		"type":	"Author",
+		"original-name":	"M. Zinkevich",
+		"last-name":	"Zinkevich"
+	},
+	{
+		"label":	"Knirsch, P.",
+		"type":	"Author",
+		"original-name":	"P. Knirsch",
+		"last-name":	"Knirsch"
+	},
+	{
+		"label":	"Welling, M.",
+		"type":	"Author",
+		"original-name":	"M. Welling",
+		"last-name":	"Welling"
+	},
+	{
+		"label":	"Kriegel, H.P.",
+		"type":	"Author",
+		"original-name":	"H. Kriegel",
+		"last-name":	"Kriegel"
+	},
+	{
+		"label":	"Shen, H.",
+		"type":	"Author",
+		"original-name":	"H. Shen",
+		"last-name":	"Shen"
+	},
+	{
+		"label":	"Eisenstein, J.",
+		"type":	"Author",
+		"original-name":	"J. Eisenstein",
+		"last-name":	"Eisenstein"
+	},
+	{
+		"label":	"Gretton, A.",
+		"type":	"Author",
+		"original-name":	"A. Gretton",
+		"last-name":	"Gretton"
+	},
+	{
+		"label":	"Zien, A.",
+		"type":	"Author",
+		"original-name":	"A. Zien",
+		"last-name":	"Zien"
+	},
+	{
+		"label":	"G\u00E4rtner, T.",
+		"type":	"Author",
+		"original-name":	"T.G\u00E4rtner",
+		"last-name":	"G\u00E4rtner"
+	},
+	{
+		"label":	"Williamson, R.C.",
+		"type":	"Author",
+		"original-name":	"R.C.Williamson",
+		"last-name":	"Williamson"
+	},
+	{
+		"label":	"Sch\u00F6lkopf, B.",
+		"type":	"Author",
+		"original-name":	"B.Sch\u00F6lkopf",
+		"last-name":	"Sch\u00F6lkopf"
+	},
+	{
+		"label":	"Kowalczyk, A.",
+		"type":	"Author",
+		"original-name":	"A.Kowalczyk",
+		"last-name":	"Kowalczyk"
+	},
+	{
+		"label":	"Yu, P.",
+		"type":	"Author",
+		"original-name":	"P.Yu",
+		"last-name":	"Yu"
+	},
+	{
+		"label":	"Murata, N.",
+		"type":	"Author",
+		"original-name":	"N.Murata",
+		"last-name":	"Murata"
+	},
+	{
+		"label":	"Rasch, M.J.",
+		"type":	"Author",
+		"original-name":	"M.J.Rasch",
+		"last-name":	"Rasch"
+	},
+	{
+		"label":	"Bedo, J.",
+		"type":	"Author",
+		"original-name":	"J.Bedo",
+		"last-name":	"Bedo"
+	},
+	{
+		"label":	"Robards, M.",
+		"type":	"Author",
+		"original-name":	"M.Robards",
+		"last-name":	"Robards"
+	},
+	{
+		"label":	"Pauls, J.",
+		"type":	"Author",
+		"original-name":	"J.Pauls",
+		"last-name":	"Pauls"
+	},
+	{
+		"label":	"Langford, J.",
+		"type":	"Author",
+		"original-name":	"J.Langford",
+		"last-name":	"Langford"
+	},
+	{
+		"label":	"Han, J.",
+		"type":	"Author",
+		"original-name":	"J.Han",
+		"last-name":	"Han"
+	},
+	{
+		"label":	"McAuley, J.",
+		"type":	"Author",
+		"original-name":	"J.McAuley",
+		"last-name":	"McAuley"
+	},
+	{
+		"label":	"Devrim, U.",
+		"type":	"Author",
+		"original-name":	"U.Devrim",
+		"last-name":	"Devrim"
+	},
+	{
+		"label":	"Chapelle, O.",
+		"type":	"Author",
+		"original-name":	"O.Chapelle",
+		"last-name":	"Chapelle"
+	},
+	{
+		"label":	"Gordon, G.",
+		"type":	"Author",
+		"original-name":	"G.Gordon",
+		"last-name":	"Gordon"
+	},
+	{
+		"label":	"Thoma, M.",
+		"type":	"Author",
+		"original-name":	"M.Thoma",
+		"last-name":	"Thoma"
+	},
+	{
+		"label":	"Aly, M.",
+		"type":	"Author",
+		"original-name":	"M.Aly",
+		"last-name":	"Aly"
+	},
+	{
+		"label":	"Yang, S.H.",
+		"type":	"Author",
+		"original-name":	"S.H.Yang",
+		"last-name":	"Yang"
+	},
+	{
+		"label":	"Takeuchi, I.",
+		"type":	"Author",
+		"original-name":	"I.Takeuchi",
+		"last-name":	"Takeuchi"
+	},
+	{
+		"label":	"Weston, J.",
+		"type":	"Author",
+		"original-name":	"J.Weston",
+		"last-name":	"Weston"
+	},
+	{
+		"label":	"Elisseeff, A.",
+		"type":	"Author",
+		"original-name":	"A.Elisseeff",
+		"last-name":	"Elisseeff"
+	},
+	{
+		"label":	"Dom, B.",
+		"type":	"Author",
+		"original-name":	"B.Dom",
+		"last-name":	"Dom"
+	},
+	{
+		"label":	"Flach, P.A.",
+		"type":	"Author",
+		"original-name":	"P.A.Flach",
+		"last-name":	"Flach"
+	},
+	{
+		"label":	"Sears, T.D.",
+		"type":	"Author",
+		"original-name":	"T.D.Sears",
+		"last-name":	"Sears"
+	},
+	{
+		"label":	"Cheng, L.",
+		"type":	"Author",
+		"original-name":	"L.Cheng",
+		"last-name":	"Cheng"
+	},
+	{
+		"label":	"Punera, K.",
+		"type":	"Author",
+		"original-name":	"K.Punera",
+		"last-name":	"Punera"
+	},
+	{
+		"label":	"Chen, Y.",
+		"type":	"Author",
+		"original-name":	"Y.Chen",
+		"last-name":	"Chen"
+	},
+	{
+		"label":	"Augath, M.",
+		"type":	"Author",
+		"original-name":	"M.Augath",
+		"last-name":	"Augath"
+	},
+	{
+		"label":	"Obermayer, K.",
+		"type":	"Author",
+		"original-name":	"K.Obermayer",
+		"last-name":	"Obermayer"
+	},
+	{
+		"label":	"Drucker, H.",
+		"type":	"Author",
+		"original-name":	"H.Drucker",
+		"last-name":	"Drucker"
+	},
+	{
+		"label":	"Moon, T.",
+		"type":	"Author",
+		"original-name":	"T.Moon",
+		"last-name":	"Moon"
+	},
+	{
+		"label":	"Kondor, I.R.",
+		"type":	"Author",
+		"original-name":	"I.R.Kondor",
+		"last-name":	"Kondor"
+	},
+	{
+		"label":	"Caetano, T.S.",
+		"type":	"Author",
+		"original-name":	"T.S.Caetano",
+		"last-name":	"Caetano"
+	},
+	{
+		"label":	"Ahmed, A.",
+		"type":	"Author",
+		"original-name":	"A.Ahmed",
+		"last-name":	"Ahmed"
+	},
+	{
+		"label":	"Bhattacharyya, C.",
+		"type":	"Author",
+		"original-name":	"C.Bhattacharyya",
+		"last-name":	"Bhattacharyya"
+	},
+	{
+		"label":	"Vishwanathan, S.V.N.",
+		"type":	"Author",
+		"original-name":	"S.V.N.Vishwanathan",
+		"last-name":	"Vishwanathan"
+	},
+	{
+		"label":	"Borgwardt, K.M.",
+		"type":	"Author",
+		"original-name":	"K.M.Borgwardt",
+		"last-name":	"Borgwardt"
+	},
+	{
+		"label":	"Ozgur, S.",
+		"type":	"Author",
+		"original-name":	"S.Ozgur",
+		"last-name":	"Ozgur"
+	},
+	{
+		"label":	"Siddiqi, S.",
+		"type":	"Author",
+		"original-name":	"S.Siddiqi",
+		"last-name":	"Siddiqi"
+	},
+	{
+		"label":	"Leung, G.",
+		"type":	"Author",
+		"original-name":	"G.Leung",
+		"last-name":	"Leung"
+	},
+	{
+		"label":	"Yang, S.-H.",
+		"type":	"Author",
+		"original-name":	"S.-H.Yang",
+		"last-name":	"Yang"
+	},
+	{
+		"label":	"Graepel, T.",
+		"type":	"Author",
+		"original-name":	"T.Graepel",
+		"last-name":	"Graepel"
+	},
+	{
+		"label":	"Caetano, T.S.",
+		"type":	"Author",
+		"original-name":	"T.Caetano",
+		"last-name":	"Caetano"
+	},
+	{
+		"label":	"Mavromatis, G.",
+		"type":	"Author",
+		"original-name":	"G.Mavromatis",
+		"last-name":	"Mavromatis"
+	},
+	{
+		"label":	"Belitski, A.",
+		"type":	"Author",
+		"original-name":	"A.Belitski",
+		"last-name":	"Belitski"
+	},
+	{
+		"label":	"Teo, C.H.",
+		"type":	"Author",
+		"original-name":	"C.Teo",
+		"last-name":	"Teo"
+	},
+	{
+		"label":	"Vidal, R.",
+		"type":	"Author",
+		"original-name":	"R.Vidal",
+		"last-name":	"Vidal"
+	},
+	{
+		"label":	"Xing, E.P.",
+		"type":	"Author",
+		"original-name":	"E.P.Xing",
+		"last-name":	"Xing"
+	},
+	{
+		"label":	"Song, L.",
+		"type":	"Author",
+		"original-name":	"L.Song",
+		"last-name":	"Song"
+	},
+	{
+		"label":	"Mika, S.",
+		"type":	"Author",
+		"original-name":	"S.Mika",
+		"last-name":	"Mika"
+	},
+	{
+		"label":	"Teo, C.H.",
+		"type":	"Author",
+		"original-name":	"C.-H.Teo",
+		"last-name":	"Teo"
+	},
+	{
+		"label":	"Kivinen, J.",
+		"type":	"Author",
+		"original-name":	"J.Kivinen",
+		"last-name":	"Kivinen"
+	},
+	{
+		"label":	"Weinberger, K.Q.",
+		"type":	"Author",
+		"original-name":	"K.Weinberger",
+		"last-name":	"Weinberger"
+	},
+	{
+		"label":	"Onoda, T.",
+		"type":	"Author",
+		"original-name":	"T.Onoda",
+		"last-name":	"Onoda"
+	},
+	{
+		"label":	"Le, Q.V.",
+		"type":	"Author",
+		"original-name":	"Q.V.Le",
+		"last-name":	"Le"
+	},
+	{
+		"label":	"Burton, S.",
+		"type":	"Author",
+		"original-name":	"S.Burton",
+		"last-name":	"Burton"
+	},
+	{
+		"label":	"Thomas, O.",
+		"type":	"Author",
+		"original-name":	"O.Thomas",
+		"last-name":	"Thomas"
+	},
+	{
+		"label":	"R\u00E4tsch, G.",
+		"type":	"Author",
+		"original-name":	"G.R\u00E4tsch",
+		"last-name":	"R\u00E4tsch"
+	},
+	{
+		"label":	"Vishwanathan, S.V.N.",
+		"type":	"Author",
+		"original-name":	"V.Vishwanathan",
+		"last-name":	"Vishwanathan"
+	},
+	{
+		"label":	"Zheng, Z.",
+		"type":	"Author",
+		"original-name":	"Z.Zheng",
+		"last-name":	"Zheng"
+	},
+	{
+		"label":	"Matsushima, S.",
+		"type":	"Author",
+		"original-name":	"S.Matsushima",
+		"last-name":	"Matsushima"
+	},
+	{
+		"label":	"Rajan, S.",
+		"type":	"Author",
+		"original-name":	"S.Rajan",
+		"last-name":	"Rajan"
+	},
+	{
+		"label":	"Soon-Ong, C.",
+		"type":	"Author",
+		"original-name":	"C.Soon-Ong",
+		"last-name":	"Soon-Ong"
+	},
+	{
+		"label":	"Gurumurthy, S.",
+		"type":	"Author",
+		"original-name":	"S.Gurumurthy",
+		"last-name":	"Gurumurthy"
+	},
+	{
+		"label":	"Campbell, C.",
+		"type":	"Author",
+		"original-name":	"C.Campbell",
+		"last-name":	"Campbell"
+	},
+	{
+		"label":	"Zha, H.",
+		"type":	"Author",
+		"original-name":	"H.Zha",
+		"last-name":	"Zha"
+	},
+	{
+		"label":	"Rasch, M.J.",
+		"type":	"Author",
+		"original-name":	"M.J.Rasch",
+		"last-name":	"Rasch"
+	},
+	{
+		"label":	"H\u00FCper, K.",
+		"type":	"Author",
+		"original-name":	"K.H\u00FCper",
+		"last-name":	"H\u00FCper"
+	},
+	{
+		"label":	"Altun, Y.",
+		"type":	"Author",
+		"original-name":	"Altun, Y.",
+		"last-name":	"Altun"
+	},
+	{
+		"label":	"Teo, C.H.",
+		"type":	"Author",
+		"original-name":	"C.H.Teo",
+		"last-name":	"Teo"
+	},
+	{
+		"label":	"Das, A.",
+		"type":	"Author",
+		"original-name":	"A.Das",
+		"last-name":	"Das"
+	},
+	{
+		"label":	"Le, Q.V.",
+		"type":	"Author",
+		"original-name":	"Q.V.Le",
+		"last-name":	"Le"
+	},
+	{
+		"label":	"Murty, M.N.",
+		"type":	"Author",
+		"original-name":	"M.N.Murty",
+		"last-name":	"Murty"
+	},
+	{
+		"label":	"Schuurmans, D.",
+		"type":	"Author",
+		"original-name":	"D.Schuurmans",
+		"last-name":	"Schuurmans"
+	},
+	{
+		"label":	"Tsioutsiouliklis, K.",
+		"type":	"Author",
+		"original-name":	"K.Tsioutsiouliklis",
+		"last-name":	"Tsioutsiouliklis"
+	},
+	{
+		"label":	"Green, D.",
+		"type":	"Author",
+		"original-name":	"D.Green",
+		"last-name":	"Green"
+	},
+	{
+		"label":	"Dror, G.",
+		"type":	"Author",
+		"original-name":	"G.Dror",
+		"last-name":	"Dror"
+	},
+	{
+		"label":	"McCreath, E.",
+		"type":	"Author",
+		"original-name":	"E.McCreath",
+		"last-name":	"McCreath"
+	},
+	{
+		"label":	"Friess, T.",
+		"type":	"Author",
+		"original-name":	"T.Friess",
+		"last-name":	"Friess"
+	},
+	{
+		"label":	"Do, C.",
+		"type":	"Author",
+		"original-name":	"C.Do",
+		"last-name":	"Do"
+	},
+	{
+		"label":	"Li, L.",
+		"type":	"Author",
+		"original-name":	"L.Li",
+		"last-name":	"Li"
+	},
+	{
+		"label":	"Pannagadatta, K.S.",
+		"type":	"Author",
+		"original-name":	"K.S.Pannagadatta",
+		"last-name":	"Pannagadatta"
+	},
+	{
+		"label":	"Canu, S.",
+		"type":	"Author",
+		"original-name":	"S.Canu",
+		"last-name":	"Canu"
+	},
+	{
+		"label":	"Yun, S.",
+		"type":	"Author",
+		"original-name":	"S.Yun",
+		"last-name":	"Yun"
+	},
+	{
+		"label":	"Le, Q.V.Quoc",
+		"type":	"Author",
+		"original-name":	"Q.V.Quoc Le",
+		"last-name":	"Le"
+	},
+	{
+		"label":	"Cheng, H.",
+		"type":	"Author",
+		"original-name":	"H.Cheng",
+		"last-name":	"Cheng"
+	},
+	{
+		"label":	"Rendell, A.P.",
+		"type":	"Author",
+		"original-name":	"A.P.Rendell",
+		"last-name":	"Rendell"
+	},
+	{
+		"label":	"Boots, B.",
+		"type":	"Author",
+		"original-name":	"B.Boots",
+		"last-name":	"Boots"
+	},
+	{
+		"label":	"Zhang, X.",
+		"type":	"Author",
+		"original-name":	"X.Zhang",
+		"last-name":	"Zhang"
+	},
+	{
+		"label":	"Wang, L.",
+		"type":	"Author",
+		"original-name":	"L.Wang",
+		"last-name":	"Wang"
+	},
+	{
+		"label":	"Lemmen, C.",
+		"type":	"Author",
+		"original-name":	"C.Lemmen",
+		"last-name":	"Lemmen"
+	},
+	{
+		"label":	"Broder, A.",
+		"type":	"Author",
+		"original-name":	"A.Broder",
+		"last-name":	"Broder"
+	},
+	{
+		"label":	"Hofmann, T.",
+		"type":	"Author",
+		"original-name":	"T.Hofmann",
+		"last-name":	"Hofmann"
+	},
+	{
+		"label":	"Horvath, T.",
+		"type":	"Author",
+		"original-name":	"T.Horvath",
+		"last-name":	"Horvath"
+	},
+	{
+		"label":	"Kim, S.",
+		"type":	"Author",
+		"original-name":	"S.Kim",
+		"last-name":	"Kim"
+	},
+	{
+		"label":	"Bartlett, P.L.",
+		"type":	"Author",
+		"original-name":	"P.L.Bartlett",
+		"last-name":	"Bartlett"
+	},
+	{
+		"label":	"Globerson, A.",
+		"type":	"Author",
+		"original-name":	"A.Globerson",
+		"last-name":	"Globerson"
+	},
+	{
+		"label":	"Simard, P.",
+		"type":	"Author",
+		"original-name":	"P.Simard",
+		"last-name":	"Simard"
+	},
+	{
+		"label":	"Cristianini, N.",
+		"type":	"Author",
+		"original-name":	"N.Cristianini",
+		"last-name":	"Cristianini"
+	},
+	{
+		"label":	"Narayanamurthy, S.",
+		"type":	"Author",
+		"original-name":	"S.Narayanamurthy",
+		"last-name":	"Narayanamurthy"
+	},
+	{
+		"label":	"Eskin, E.",
+		"type":	"Author",
+		"original-name":	"E.Eskin",
+		"last-name":	"Eskin"
+	},
+	{
+		"label":	"Oliver, N.",
+		"type":	"Author",
+		"original-name":	"N.Oliver",
+		"last-name":	"Oliver"
+	},
+	{
+		"label":	"Lengauer, T.",
+		"type":	"Author",
+		"original-name":	"T.Lengauer",
+		"last-name":	"Lengauer"
+	},
+	{
+		"label":	"Quadrianto, N.",
+		"type":	"Author",
+		"original-name":	"N.Quadrianto",
+		"last-name":	"Quadrianto"
+	},
+	{
+		"label":	"Chattopadhy, M.",
+		"type":	"Author",
+		"original-name":	"M.Chattopadhy",
+		"last-name":	"Chattopadhy"
+	},
+	{
+		"label":	"Borer, S.",
+		"type":	"Author",
+		"original-name":	"S.Borer",
+		"last-name":	"Borer"
+	},
+	{
+		"label":	"Fukumizu, K.",
+		"type":	"Author",
+		"original-name":	"K.Fukumizu",
+		"last-name":	"Fukumizu"
+	},
+	{
+		"label":	"Mary, X.",
+		"type":	"Author",
+		"original-name":	"X.Mary",
+		"last-name":	"Mary"
+	},
+	{
+		"label":	"Petterson, J.",
+		"type":	"Author",
+		"original-name":	"J.Petterson",
+		"last-name":	"Petterson"
+	},
+	{
+		"label":	"Herbrich, R.",
+		"type":	"Author",
+		"original-name":	"R.Herbrich",
+		"last-name":	"Herbrich"
+	},
+	{
+		"label":	"Kohlmorgen, J.",
+		"type":	"Author",
+		"original-name":	"J.Kohlmorgen",
+		"last-name":	"Kohlmorgen"
+	},
+	{
+		"label":	"Ong, C.S.",
+		"type":	"Author",
+		"original-name":	"C.S.Ong",
+		"last-name":	"Ong"
+	},
+	{
+		"label":	"Le, Q.",
+		"type":	"Author",
+		"original-name":	"Q.Le",
+		"last-name":	"Le"
+	},
+	{
+		"label":	"Zein, A.El",
+		"type":	"Author",
+		"original-name":	"A.El Zein",
+		"last-name":	"Zein"
+	},
+	{
+		"label":	"Anastasakos, T.",
+		"type":	"Author",
+		"original-name":	"T.Anastasakos",
+		"last-name":	"Anastasakos"
+	},
+	{
+		"label":	"Borgwardt, K.M.",
+		"type":	"Author",
+		"original-name":	"K.Borgwardt",
+		"last-name":	"Borgwardt"
+	},
+	{
+		"label":	"S\u00F6ldner-Rembold, S.",
+		"type":	"Author",
+		"original-name":	"S.S\u00F6ldner-Rembold",
+		"last-name":	"S\u00F6ldner-Rembold"
+	},
+	{
+		"label":	"Freitas, N.de",
+		"type":	"Author",
+		"original-name":	"N.de Freitas",
+		"last-name":	"Freitas"
+	},
+	{
+		"label":	"Platt, J.",
+		"type":	"Author",
+		"original-name":	"J.Platt",
+		"last-name":	"Platt"
+	},
+	{
+		"label":	"Shi, Q.",
+		"type":	"Author",
+		"original-name":	"Q.Shi",
+		"last-name":	"Shi"
+	},
+	{
+		"label":	"Long, B.",
+		"type":	"Author",
+		"original-name":	"B.Long",
+		"last-name":	"Long"
+	},
+	{
+		"label":	"Zoghi, M.",
+		"type":	"Author",
+		"original-name":	"M.Zoghi",
+		"last-name":	"Zoghi"
+	},
+	{
+		"label":	"Smola, A.J.",
+		"type":	"Author",
+		"original-name":	"A.J.Smola",
+		"last-name":	"Smola"
+	},
+	{
+		"label":	"Mangasarian, O.L.",
+		"type":	"Author",
+		"original-name":	"O.L.Mangasarian",
+		"last-name":	"Mangasarian"
+	},
+	{
+		"label":	"Franz, M.",
+		"type":	"Author",
+		"original-name":	"M.Franz",
+		"last-name":	"Franz"
+	},
+	{
+		"label":	"M\u00FCller, K.-R.",
+		"type":	"Author",
+		"original-name":	"K.-R.M\u00FCller",
+		"last-name":	"M\u00FCller"
+	},
+	{
+		"label":	"Weimer, M.",
+		"type":	"Author",
+		"original-name":	"M.Weimer",
+		"last-name":	"Weimer"
+	},
+	{
+		"label":	"Logothetis, N.",
+		"type":	"Author",
+		"original-name":	"N.Logothetis",
+		"last-name":	"Logothetis"
+	},
+	{
+		"label":	"Li, W.",
+		"type":	"Author",
+		"original-name":	"W.Li",
+		"last-name":	"Li"
+	},
+	{
+		"label":	"Huang, J.",
+		"type":	"Author",
+		"original-name":	"J.Huang",
+		"last-name":	"Huang"
+	},
+	{
+		"label":	"Vishwanathan, S.V.N.",
+		"type":	"Author",
+		"original-name":	"S.V.N.Vishwanathan",
+		"last-name":	"Vishwanathan"
+	},
+	{
+		"label":	"Tuytelaars, T.",
+		"type":	"Author",
+		"original-name":	"T.Tuytelaars",
+		"last-name":	"Tuytelaars"
+	},
+	{
+		"label":	"Shawe-Taylor, J.",
+		"type":	"Author",
+		"original-name":	"J.Shawe-Taylor",
+		"last-name":	"Shawe-Taylor"
+	},
+	{
+		"label":	"Murayama, Y.",
+		"type":	"Author",
+		"original-name":	"Y.Murayama",
+		"last-name":	"Murayama"
+	},
+	{
+		"label":	"Weinberger, K.Q.",
+		"type":	"Author",
+		"original-name":	"K.Q.Weinberger",
+		"last-name":	"Weinberger"
+	},
+	{
+		"label":	"Saunders, C.",
+		"type":	"Author",
+		"original-name":	"C.Saunders",
+		"last-name":	"Saunders"
+	},
+	{
+		"label":	"Burges, C.J.C.",
+		"type":	"Author",
+		"original-name":	"C.J.C.Burges",
+		"last-name":	"Burges"
+	},
+	{
+		"label":	"Chalimourda, A.",
+		"type":	"Author",
+		"original-name":	"A.Chalimourda",
+		"last-name":	"Chalimourda"
+	},
+	{
+		"label":	"Karatzoglou, A.",
+		"type":	"Author",
+		"original-name":	"A.Karatzoglou",
+		"last-name":	"Karatzoglou"
+	},
+	{
+		"label":	"Kaufman, L.",
+		"type":	"Author",
+		"original-name":	"L.Kaufman",
+		"last-name":	"Kaufman"
+	},
+	{
+		"label":	"Fung, G.",
+		"type":	"Author",
+		"original-name":	"G.Fung",
+		"last-name":	"Fung"
+	},
+	{
+		"label":	"Josifovski, V.",
+		"type":	"Author",
+		"original-name":	"V.Josifovski",
+		"last-name":	"Josifovski"
+	},
+	{
+		"label":	"Agarwal, D.",
+		"type":	"Author",
+		"original-name":	"D.Agarwal",
+		"last-name":	"Agarwal"
+	},
+	{
+		"label":	"Teo, C.H.",
+		"type":	"Author",
+		"original-name":	"C.H.Teo",
+		"last-name":	"Teo"
+	},
+	{
+		"label":	"Matusevych, S.",
+		"type":	"Author",
+		"original-name":	"S.Matusevych",
+		"last-name":	"Matusevych"
+	},
+	{
+		"label":	"Gabrilovich, E.",
+		"type":	"Author",
+		"original-name":	"E.Gabrilovich",
+		"last-name":	"Gabrilovich"
+	},
+	{
+		"label":	"Strehl, A.",
+		"type":	"Author",
+		"original-name":	"A.Strehl",
+		"last-name":	"Strehl"
+	},
+	{
+		"label":	"Chang, Y.",
+		"type":	"Author",
+		"original-name":	"Y.Chang",
+		"last-name":	"Chang"
+	},
+	{
+		"label":	"Schraudolph, N.N.",
+		"type":	"Author",
+		"original-name":	"N.N.Schraudolph",
+		"last-name":	"Schraudolph"
+	},
+	{
+		"label":	"Sunehag, P.",
+		"type":	"Author",
+		"original-name":	"P.Sunehag",
+		"last-name":	"Sunehag"
+	},
+	{
+		"label":	"Stitson, M.O.",
+		"type":	"Author",
+		"original-name":	"M.O.Stitson",
+		"last-name":	"Stitson"
+	},
+	{
+		"label":	"Bottou, L.",
+		"type":	"Author",
+		"original-name":	"L.Bottou",
+		"last-name":	"Bottou"
+	},
+	{
+		"label":	"Dasgupta, A.",
+		"type":	"Author",
+		"original-name":	"A.Dasgupta",
+		"last-name":	"Dasgupta"
+	},
+	{
+		"label":	"Caetano, T.S.",
+		"type":	"Author",
+		"original-name":	"T.S.Caetano",
+		"last-name":	"Caetano"
+	},
+	{
+		"label":	"Saunders, P.",
+		"type":	"Author",
+		"original-name":	"P.Saunders",
+		"last-name":	"Saunders"
+	},
+	{
+		"label":	"Ovari, Z.L.",
+		"type":	"Author",
+		"original-name":	"Z.L.Ovari",
+		"last-name":	"Ovari"
+	},
+	{
+		"label":	"Gonzalez, J.",
+		"type":	"Author",
+		"original-name":	"J.Gonzalez",
+		"last-name":	"Gonzalez"
+	},
+	{
+		"label":	"Loosli, G.",
+		"type":	"Author",
+		"original-name":	"G.Loosli",
+		"last-name":	"Loosli"
+	},
+	{
+		"label":	"Platt, J.C.",
+		"type":	"Author",
+		"original-name":	"J.C.Platt",
+		"last-name":	"Platt"
+	},
+	{
+		"label":	"Attenberg, J.",
+		"type":	"Author",
+		"original-name":	"J.Attenberg",
+		"last-name":	"Attenberg"
+	},
+	{
+		"label":	"Vadrevu, S.",
+		"type":	"Author",
+		"original-name":	"S.Vadrevu",
+		"last-name":	"Vadrevu"
+	},
+	{
+		"label":	"Vapnik, V.",
+		"type":	"Author",
+		"original-name":	"V.Vapnik",
+		"last-name":	"Vapnik"
+	},
+	{
+		"label":	"Buntine, W.",
+		"type":	"Author",
+		"original-name":	"W.Buntine",
+		"last-name":	"Buntine"
+	},
+	{
+		"label":	"Guttman, O.",
+		"type":	"Author",
+		"original-name":	"O.Guttman",
+		"last-name":	"Guttman"
+	},
+	{
+		"label":	"Scholz, M.",
+		"type":	"Author",
+		"original-name":	"M.Scholz",
+		"last-name":	"Scholz"
+	},
+	{
+		"label":	"McAuley, J.",
+		"type":	"Author",
+		"original-name":	"J.McAuley",
+		"last-name":	"McAuley"
+	},
+	{
+		"label":	"Vannerem, P.",
+		"type":	"Author",
+		"original-name":	"P.Vannerem",
+		"last-name":	"Vannerem"
+	},
+	{
+		"label":	"Sch\u00F6nauer, S.",
+		"type":	"Author",
+		"original-name":	"S.Sch\u00F6nauer",
+		"last-name":	"Sch\u00F6nauer"
+	},
+	{
+		"label":	"Ho, Q.",
+		"type":	"Author",
+		"original-name":	"Q.Ho",
+		"last-name":	"Ho"
+	},
+	{
+		"label":	"Borgwardt, K.M.",
+		"type":	"Author",
+		"original-name":	"K.M.Borgwardt",
+		"last-name":	"Borgwardt"
+	},
+	{
+		"label":	"Graf, A.B.",
+		"type":	"Author",
+		"original-name":	"A.B.Graf",
+		"last-name":	"Graf"
+	},
+	{
+		"label":	"Low, Y.",
+		"type":	"Author",
+		"original-name":	"Y.Low",
+		"last-name":	"Low"
+	},
+	{
+		"label":	"Roweis, S.",
+		"type":	"Author",
+		"original-name":	"S.Roweis",
+		"last-name":	"Roweis"
+	},
+	{
+		"label":	"Sadagopan, N.",
+		"type":	"Author",
+		"original-name":	"N.Sadagopan",
+		"last-name":	"Sadagopan"
+	},
+	{
+		"label":	"Yan, X.",
+		"type":	"Author",
+		"original-name":	"X.Yan",
+		"last-name":	"Yan"
+	}
+	]
+}
